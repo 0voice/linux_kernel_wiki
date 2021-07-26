@@ -40,3 +40,14 @@ Linux内核主要由 **进程管理**、**内存管理**、**设备驱动**、**
   
 </div>
 
+<h3>Linux内核知识体系</h3>
+
+<br>
+
+<div align=center >
+  
+<img  src="https://img11.360buyimg.com/ddimg/jfs/t1/180814/34/16127/509705/60fead2eE6a3f4a40/7de96407673e31ea.jpg"></img>
+  
+</div>
+
+
