@@ -14,7 +14,7 @@
 在我们学习Linux内核之前，我们首先需要掌握一下几点：
 
 * 了解Linux内核由哪些组成？
-* 须知Linux内核源码（下载的链接👆👆👆）里每个文件的对应结构？
+* 须知Linux内核源码（下载的链接👆👆👆）组织结构？
 * 其次明白每个模块的里哪些是我们重点需要的学习地知识点？
 * 最后依据我为大家提供的的学习资料，开启我们的Linux学习之旅。
 
@@ -27,6 +27,16 @@ Linux内核主要由 **进程管理**、**内存管理**、**设备驱动**、**
 <div align=center >
   
 <img  src="https://img11.360buyimg.com/ddimg/jfs/t1/196681/24/14941/19863/60fe7effEcdbea4bc/d066d46e595f08b9.png"></img>
+  
+</div>
+
+<h3>源码组织结构 </h3>
+
+<br>
+
+<div align=center >
+  
+<img height="66%" width="66%" src="https://img13.360buyimg.com/ddimg/jfs/t1/186199/12/15986/607663/60fe8465E7299d74a/a4311202fe883c12.png"></img>
   
 </div>
 
