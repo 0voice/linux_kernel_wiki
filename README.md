@@ -36,7 +36,7 @@ Linux内核主要由 **进程管理**、**内存管理**、**设备驱动**、**
 
 <div align=center >
   
-<img height="60%" width="60%" src="https://img13.360buyimg.com/ddimg/jfs/t1/186199/12/15986/607663/60fe8465E7299d74a/a4311202fe883c12.png"></img>
+<img height="63%" width="63%" src="https://img13.360buyimg.com/ddimg/jfs/t1/186199/12/15986/607663/60fe8465E7299d74a/a4311202fe883c12.png"></img>
   
 </div>
 
