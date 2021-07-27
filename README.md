@@ -351,42 +351,42 @@ No.|Title|Translation（参考）|Company
 
 <div align=center>
 
-No.|name|introduction|
+No.|Project|Introduction|
 :-------: | :---------------: | :------------:
-1 | esp8089 | ESP8089 WiFi芯片的Linux内核模块驱动程序
-2 | fibdrv | 计算斐波那契数列的Linux内核模块
-3 | exfat-linux | 这个用于Linux内核的exFAT文件系统模块是三星最新的Linux主线的exFAT驱动程序的后端端口。这个项目可以用于日常Linux用户，只需简单地做make && make install。Ubuntu用户可以简单地添加一个PPA并开始使用它，甚至不需要下载代码。这也可以直接插入到现有的Linux内核源代码中，以内联地构建文件系统驱动程序，这对Android内核开发人员应该很有用。
-4 | ipt-netflow | 适用于 Linux 的高性能 NetFlow v5、v9、IPFIX 流数据导出模块核心。创建用于高吞吐量网络中的 linux 路由器。
-5 | buildKernelAndModules | 在NVIDIA Jetson Nano Developer Kit上构建Linux内核和模块
-6 | kernel-modules-hook | 使Arch Linux在内核升级后完全功能		
-7 | rfm12b-linux | HopeRF公司生产的RFM12B和RFM69CW数字射频模块的Linux内核驱动程序。它的目标是提供SPI接口的嵌入式Linux板。
-8 | khttpd | khttpd是一个实验性的HTTP服务器，实现为Linux内核模块。服务器默认端口为8081，但是可以使用命令行参数port=?当您准备加载内核模块时。		
-9 | Kernel_Rootkit | Kernel_Rootkit是一种特殊类型的恶意软件，它通过修改操作系统内核来向用户和系统管理员隐藏自己的存在。rootkit是一个内核模块——一个动态加载到内核中的库。		
-10 | ktls | Linux内核传输层安全模块 	
-11 | frdev | 一个高效的ip黑/白名单防火墙(作为一个linux内核模块)。		
-12 | HomaModule | 一个实现了Homa传输协议的Linux内核模块。 		
-13 | PCRE | Linux内核模块&PCRE文本搜索引擎		
-14 | acpi_call | 一个内核简单模块，允许您通过将方法名称后跟参数写入/proc/ ACPI /call来调用ACPI方法。
-13 | Linux Modules | 这是一个管理Linux内核模块的工具。它是modprobe的一个替代方案，支持列出、添加和删除模块，以及显示模块上的信息。	
-14 | LiME | 一个可加载内核模块(LKM)，它允许从Linux和基于Linux的设备(如Android)获取易失性内存。这使得LiME独一无二，因为它是Android设备上第一个允许全内存捕获的工具。它还在获取过程中最小化了用户和内核空间进程之间的交互，这使得它能够生成比其他为Linux内存获取而设计的工具更可靠的内存捕获。		
-15 | kplugs | KPlugs是一个Linux内核模块，它提供了在Linux内核中动态执行脚本的接口。	
-16 | rapiddisk | 一个高级Linux RAM驱动器和缓存内核模块。动态分配RAM作为块设备。使用它们作为独立的磁盘驱动器，甚至将它们映射为缓存节点到较慢的本地磁盘驱动器。		
-17 | forge_socket | Linux内核模块，用于从用户空间检查/修改TCP套接字状态
-18 | CCKiller | Linux轻量级CC攻击防御工具脚本
-19 | libNetGo | Linux网络分析工具 
-20 | wgcloud | linux运维监控工具，支持系统信息，内存，cpu，温度，磁盘空间及IO，硬盘smart，系统负载，网络流量，进程等监控，API接口，大屏展示，拓扑图，端口监控，docker监控，日志文件监控，数据可视化，webSSH工具，堡垒机(跳板机)
-21 | hookso | hookso是一个Linux动态链接库的注入修改查找工具，用来修改其他进程的动态链接库行为。
-22 | LinuxPerformanceTools | Linux性能监控工具
-23 | jon | jon 是一款Linux系统攻防工具箱，包含扫描，入侵，痕迹清理，木马，网站测试等各种黑客工具。
-24 | perf-tools | 用于Linux ftrace和perf_events(也就是“perf”命令)的各种开发中且不受支持的性能分析工具。ftrace和perf都是核心的Linux跟踪工具，包含在内核源代码中。您的系统可能已经有了ftrace，而perf通常只是一个添加包(参见先决条件)。
-25 | FlameGraph | 火焰图形可视化分析器
-26 | bcc | BCC 是一个用于创建高效内核跟踪和操作程序的工具包，包括几个有用的工具和示例。它利用了扩展 BPF（伯克利数据包过滤器），正式名称为 eBPF，这是首次添加到 Linux 3.15 的新功能。BCC 使用的大部分内容都需要 Linux 4.1 及更高版本。
-27 | fhe-toolkit-linux | IBM Linux的完全同态加密(FHE)工具包被打包为Docker容器，这使得开始和试验完全同态加密技术变得更容易。
-28 | linux-smart-enumeration | 用于渗透测试的Linux枚举工具和具有冗长级别的ctf
-29 | gpu-monitoring-tools | Linux上监视NVIDIA gpu的工具
-30 | linux-inject | 将共享对象注入Linux进程的工具
-31 | ntttcp-for-linux | 一个Linux网络吞吐量多线程基准测试工具
-32 | linux-pentest | Linux穿透测试工具
+1 | [esp8089](https://github.com/al177/esp8089) | ESP8089 WiFi芯片的Linux内核模块驱动程序
+2 | [fibdrv](https://github.com/sysprog21/fibdrv) | 计算斐波那契数列的Linux内核模块
+3 | [exfat-linux](https://github.com/arter97/exfat-linux) | 这个用于Linux内核的exFAT文件系统模块是三星最新的Linux主线的exFAT驱动程序的后端端口。这个项目可以用于日常Linux用户，只需简单地做make && make install。Ubuntu用户可以简单地添加一个PPA并开始使用它，甚至不需要下载代码。这也可以直接插入到现有的Linux内核源代码中，以内联地构建文件系统驱动程序，这对Android内核开发人员应该很有用。
+4 | [ipt-netflow](https://github.com/aabc/ipt-netflow) | 适用于 Linux 的高性能 NetFlow v5、v9、IPFIX 流数据导出模块核心。创建用于高吞吐量网络中的 linux 路由器。
+5 | [buildKernelAndModules](https://github.com/JetsonHacksNano/buildKernelAndModules) | 在NVIDIA Jetson Nano Developer Kit上构建Linux内核和模块
+6 | [kernel-modules-hook](https://github.com/saber-nyan/kernel-modules-hook) | 使Arch Linux在内核升级后完全功能		
+7 | [rfm12b-linux](https://github.com/gkaindl/rfm12b-linux) | HopeRF公司生产的RFM12B和RFM69CW数字射频模块的Linux内核驱动程序。它的目标是提供SPI接口的嵌入式Linux板。
+8 | [khttpd](https://github.com/sysprog21/khttpd) | khttpd是一个实验性的HTTP服务器，实现为Linux内核模块。服务器默认端口为8081，但是可以使用命令行参数port=?当您准备加载内核模块时。
+9 | [Kernel_Rootkit](https://github.com/varshapaidi/Kernel_Rootkit) | Kernel_Rootkit是一种特殊类型的恶意软件，它通过修改操作系统内核来向用户和系统管理员隐藏自己的存在。rootkit是一个内核模块——一个动态加载到内核中的库。		
+10 | [ktls](https://github.com/djwatson/ktls) | Linux内核传输层安全模块 	
+11 | [frdev](https://github.com/hnes/frdev) | 一个高效的ip黑/白名单防火墙(作为一个linux内核模块)。		
+12 | [HomaModule](https://github.com/PlatformLab/HomaModule) | 一个实现了Homa传输协议的Linux内核模块。 		
+13 | [PCRE](https://github.com/smcho-kr/kpcre) | Linux内核模块&PCRE文本搜索引擎		
+14 | [acpi_call](https://github.com/mkottman/acpi_call) | 一个内核简单模块，允许您通过将方法名称后跟参数写入/proc/ ACPI /call来调用ACPI方法。
+13 | [Linux Modules](https://github.com/DianaNites/linux_modules) | 这是一个管理Linux内核模块的工具。它是modprobe的一个替代方案，支持列出、添加和删除模块，以及显示模块上的信息。	
+14 | [LiME](https://github.com/504ensicsLabs/LiME) | 一个可加载内核模块(LKM)，它允许从Linux和基于Linux的设备(如Android)获取易失性内存。这使得LiME独一无二，因为它是Android设备上第一个允许全内存捕获的工具。它还在获取过程中最小化了用户和内核空间进程之间的交互，这使得它能够生成比其他为Linux内存获取而设计的工具更可靠的内存捕获。		
+15 | [kplugs](https://github.com/avielw/kplugs) | KPlugs是一个Linux内核模块，它提供了在Linux内核中动态执行脚本的接口。	
+16 | [rapiddisk](https://github.com/pkoutoupis/rapiddisk) | 一个高级Linux RAM驱动器和缓存内核模块。动态分配RAM作为块设备。使用它们作为独立的磁盘驱动器，甚至将它们映射为缓存节点到较慢的本地磁盘驱动器。		
+17 | [forge_socket](https://github.com/ewust/forge_socket) | Linux内核模块，用于从用户空间检查/修改TCP套接字状态
+18 | [CCKiller](https://github.com/jagerzhang/CCKiller) | Linux轻量级CC攻击防御工具脚本
+19 | [libNetGo](https://github.com/gotoolkits/libnetgo) | Linux网络分析工具 
+20 | [wgcloud](https://github.com/tianshiyeben/wgcloud) | linux运维监控工具，支持系统信息，内存，cpu，温度，磁盘空间及IO，硬盘smart，系统负载，网络流量，进程等监控，API接口，大屏展示，拓扑图，端口监控，docker监控，日志文件监控，数据可视化，webSSH工具，堡垒机(跳板机)
+21 | [hookso](https://github.com/esrrhs/hookso) | hookso是一个Linux动态链接库的注入修改查找工具，用来修改其他进程的动态链接库行为。
+22 | [LinuxPerformanceTools](https://github.com/melin/LinuxPerformanceTools) | Linux性能监控工具
+23 | [jon](https://github.com/JonGates/jon#jon-version-01) | jon 是一款Linux系统攻防工具箱，包含扫描，入侵，痕迹清理，木马，网站测试等各种黑客工具。
+24 | [perf-tools](https://github.com/brendangregg/perf-tools) | 用于Linux ftrace和perf_events(也就是“perf”命令)的各种开发中且不受支持的性能分析工具。ftrace和perf都是核心的Linux跟踪工具，包含在内核源代码中。您的系统可能已经有了ftrace，而perf通常只是一个添加包(参见先决条件)。
+25 | [FlameGraph](https://github.com/brendangregg/FlameGraph) | 火焰图形可视化分析器
+26 | [bcc](https://github.com/brendangregg/bcc) | BCC 是一个用于创建高效内核跟踪和操作程序的工具包，包括几个有用的工具和示例。它利用了扩展 BPF（伯克利数据包过滤器），正式名称为 eBPF，这是首次添加到 Linux 3.15 的新功能。BCC 使用的大部分内容都需要 Linux 4.1 及更高版本。
+27 | [fhe-toolkit-linux](https://github.com/IBM/fhe-toolkit-linux) | IBM Linux的完全同态加密(FHE)工具包被打包为Docker容器，这使得开始和试验完全同态加密技术变得更容易。
+28 | [linux-smart-enumeration](https://github.com/diego-treitos/linux-smart-enumeration) | 用于渗透测试的Linux枚举工具和具有冗长级别的ctf
+29 | [gpu-monitoring-tools](https://github.com/NVIDIA/gpu-monitoring-tools) | Linux上监视NVIDIA gpu的工具
+30 | [linux-inject](https://github.com/gaffe23/linux-inject) | 将共享对象注入Linux进程的工具
+31 | [ntttcp-for-linux](https://github.com/microsoft/ntttcp-for-linux) | 一个Linux网络吞吐量多线程基准测试工具
+32 | [linux-pentest](https://github.com/ankh2054/linux-pentest) | Linux穿透测试工具
 
 </div>
 
