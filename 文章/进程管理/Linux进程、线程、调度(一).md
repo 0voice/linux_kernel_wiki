@@ -42,7 +42,7 @@ task_struct被管理<br>
 
 ### Linux进程生命周期（就绪、运行、睡眠、停止、僵死）
 
-![image](https://user-images.githubusercontent.com/87457873/127094076-2093a68c-5ce5-408b-a43c-d1f27705073f.png)
+![image](https://user-images.githubusercontent.com/87457873/127104656-fbe9cbad-c4bf-4ba2-9635-f502240198b8.png)
 
 ### 进程、线程、协程
 在linux系统里，进程和线程都是通过task_struct结构体来描述。
