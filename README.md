@@ -268,7 +268,50 @@ No.|Title|Translation（参考）|Company
 <br>
 
 <h2 id="8">面试题</h2>
-待更新，敬请关注。。。
+
+### 面试题一
+
+1、什么是Linux?<br>
+2、Unix和Linux有什么区别？<br>
+3、什么是 Linux 内核？<br>
+4、Linux的基本组件是什么？<br>
+5、Linux 的体系结构?<br>
+6、BASH和DOS之间的基本区别是什么？<br>
+7、Linux 开机启动过程？<br>
+8、Linux系统缺省的运行级别？<br>
+9、Linux 使用的进程间通信方式？<br>
+10、Linux 有哪些系统日志文件？<br>
+11、Linux系统安装多个桌面环境有帮助吗？<br>
+12、什么是交换空间？<br>
+13、什么是root帐户?<br>
+14、什么是LILO？<br>
+15、什么是BASH？<br>
+16、什么是CLI？<br>
+17、什么是GUI？<br>
+18、开源的优势是什么？<br>
+19、简单 Linux 文件系统？<br>
+20、Linux 的目录结构是怎样的？<br>
+21、什么是 inode ？<br>
+22、什么是硬链接和软链接？<br>
+23、RAID 是什么?<br>
+24、一台 Linux 系统初始化环境后需要做一些什么安全工作？<br>
+25、什么叫 CC 攻击？什么叫 DDOS 攻击？<br>
+26、什么是网站数据库注入？<br>
+27、Shell 脚本是什么？<br>
+28、可以在 Shell 脚本中使用哪些类型的变量？<br>
+29、Shell 脚本中 `if` 语法如何嵌套?<br>
+30、Shell 脚本中 `case` 语句的语法?<br>
+31、Shell 脚本中 `for` 循环语法？<br>
+32、Shell 脚本中 `while` 循环语法？<br>
+33、如何使脚本可执行?<br>
+34、在 Shell 脚本如何定义函数呢？<br>
+35、判断一文件是不是字符设备文件，如果是将其拷贝到 `/dev` 目录下？<br>
+36、添加一个新组为 class1 ，然后添加属于这个组的 30 个用户，用户名的形式为 stdxx ，其中 xx 从 01 到 30 ？<br>
+37、写一个 sed 命令，修改 `/tmp/input.txt` 文件的内容？<br>
+
+
+
+
 <br>
 
 <h2 id="9">内核项目</h2>
