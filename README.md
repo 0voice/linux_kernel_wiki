@@ -170,7 +170,13 @@ Linux内核主要由 **进程管理**、**内存管理**、**设备驱动**、**
 
 <h2 id="5">文章</h2>
 <h3 id="">内存管理</h2>
-待更新，敬请关注。。。
+
+#### 1、[内存管理（一）](https://github.com/0voice/linux_kernel_wiki/blob/main/%E6%96%87%E7%AB%A0/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%EF%BC%88%E4%B8%80%EF%BC%89.md)
+#### 2、[内存管理（二）](https://github.com/0voice/linux_kernel_wiki/blob/main/%E6%96%87%E7%AB%A0/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%EF%BC%88%E4%BA%8C%EF%BC%89.md)
+
+
+
+
 <br>
 
 <h3 id="">进程管理</h2>
