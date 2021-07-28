@@ -277,7 +277,20 @@ No.|Title|Translation（参考）|Company
 <br>
 
 <h2 id="7">视频</h2>
-待更新，敬请关注。。。
+
+[1、Linux Kernel Network Drivers - Classification（Linux内核网络驱动程序）:qdt5](https://pan.baidu.com/s/1_85kROXeIVzcYVNJspMKWA)<br>
+[2、Linux Kernel Development（Linux内核开发）:vg1u](https://pan.baidu.com/s/1eWqHk_xUriAXg2GJqXtCbA)<br>
+[3、The mind behind Linux（Linux背后的思想）:zgnu](https://pan.baidu.com/s/1v2eDJc_0DTTH7jrzolxcyg)<br>
+[4、Linux Systems Performance（Linux系统性能）:9qom](https://pan.baidu.com/s/1g-6dhsXPMleLE71b9JumUQ)<br>
+[5、Network Driver Interfaces（网络驱动程序接口）:xpke](https://pan.baidu.com/s/1w9U9KffcoZPq1Tn18RC-KQ)<br>
+[6、Selective module compilation in mainline kernel（在主线内核中编译可选模块）:l56j](https://pan.baidu.com/s/19qbB_8LOYjjxQhYqt0J6aw)<br>
+[7、Linux System Programming 6 Hours Course（Linux系统编程6小时课程）:hc2d](https://pan.baidu.com/s/1NTO-oVj2mD8RsdSttv7utg)<br>
+[8、Threads and Thread Handing（线程和线程处理）:erxm](https://pan.baidu.com/s/1kFgrXMlwjwaXEhHrNn4YMg)<br>
+[9、Steven Rostedt - Learning the Linux Kernel with tracing（Steven Rostedt -通过跟踪学习Linux内核）:066g](https://pan.baidu.com/s/1dryMKlBjTMOBPdwOgZS8gQ)<br>
+[10、Linux Tutorials- How to Apply a Patch to the Linux Kernel Stable Tree（如何将补丁应用到Linux内核稳定树）:955e](https://pan.baidu.com/s/1r1MxgqOofOvCerFuQp_xTw)<br>
+[11、Linux Kernel Programming - atomic_t datatype - atomic variables and APIs（Linux内核编程- atomic_t数据类型-原子变量和api）:njt0](https://pan.baidu.com/s/1oK3XzU-n4_wmYjH1UHA5sQ)<br>
+[12、Kernel Recipes 2017 - Brendan Gregg（提取码）:lrex](https://pan.baidu.com/s/1B9VFegjTeOY7QosSmjxgFA)<br>
+
 <br>
 
 <h2 id="8">面试题</h2>
