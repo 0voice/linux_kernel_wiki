@@ -282,45 +282,45 @@ No.|Title|Translation（参考）|Company
 
 <h2 id="8">面试题</h2>
 
-**面试题一**
+**[面试题一](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md)**
 
-1、什么是Linux?<br>
-2、Unix和Linux有什么区别？<br>
-3、什么是 Linux 内核？<br>
-4、Linux的基本组件是什么？<br>
-5、Linux 的体系结构?<br>
-6、BASH和DOS之间的基本区别是什么？<br>
-7、Linux 开机启动过程？<br>
-8、Linux系统缺省的运行级别？<br>
-9、Linux 使用的进程间通信方式？<br>
-10、Linux 有哪些系统日志文件？<br>
-11、Linux系统安装多个桌面环境有帮助吗？<br>
-12、什么是交换空间？<br>
-13、什么是root帐户?<br>
-14、什么是LILO？<br>
-15、什么是BASH？<br>
-16、什么是CLI？<br>
-17、什么是GUI？<br>
-18、开源的优势是什么？<br>
-19、简单 Linux 文件系统？<br>
-20、Linux 的目录结构是怎样的？<br>
-21、什么是 inode ？<br>
-22、什么是硬链接和软链接？<br>
-23、RAID 是什么?<br>
-24、一台 Linux 系统初始化环境后需要做一些什么安全工作？<br>
-25、什么叫 CC 攻击？什么叫 DDOS 攻击？<br>
-26、什么是网站数据库注入？<br>
-27、Shell 脚本是什么？<br>
-28、可以在 Shell 脚本中使用哪些类型的变量？<br>
-29、Shell 脚本中 `if` 语法如何嵌套?<br>
-30、Shell 脚本中 `case` 语句的语法?<br>
-31、Shell 脚本中 `for` 循环语法？<br>
-32、Shell 脚本中 `while` 循环语法？<br>
-33、如何使脚本可执行?<br>
-34、在 Shell 脚本如何定义函数呢？<br>
-35、判断一文件是不是字符设备文件，如果是将其拷贝到 `/dev` 目录下？<br>
-36、添加一个新组为 class1 ，然后添加属于这个组的 30 个用户，用户名的形式为 stdxx ，其中 xx 从 01 到 30 ？<br>
-37、写一个 sed 命令，修改 `/tmp/input.txt` 文件的内容？<br>
+[1、什么是Linux?](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#1%E4%BB%80%E4%B9%88%E6%98%AFlinux)<br>
+[2、Unix和Linux有什么区别？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#2unix%E5%92%8Clinux%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB)<br>
+[3、什么是 Linux 内核？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#3%E4%BB%80%E4%B9%88%E6%98%AF-linux-%E5%86%85%E6%A0%B8)<br>
+[4、Linux的基本组件是什么？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#4linux%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%BB%84%E4%BB%B6%E6%98%AF%E4%BB%80%E4%B9%88)<br>
+[5、Linux 的体系结构](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#5linux-%E7%9A%84%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84)<br>
+[6、BASH和DOS之间的基本区别是什么？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#6bash%E5%92%8Cdos%E4%B9%8B%E9%97%B4%E7%9A%84%E5%9F%BA%E6%9C%AC%E5%8C%BA%E5%88%AB%E6%98%AF%E4%BB%80%E4%B9%88)<br>
+[7、Linux 开机启动过程？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#7linux-%E5%BC%80%E6%9C%BA%E5%90%AF%E5%8A%A8%E8%BF%87%E7%A8%8B)<br>
+[8、Linux系统缺省的运行级别？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#8linux%E7%B3%BB%E7%BB%9F%E7%BC%BA%E7%9C%81%E7%9A%84%E8%BF%90%E8%A1%8C%E7%BA%A7%E5%88%AB)<br>
+[9、Linux 使用的进程间通信方式？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#9linux-%E4%BD%BF%E7%94%A8%E7%9A%84%E8%BF%9B%E7%A8%8B%E9%97%B4%E9%80%9A%E4%BF%A1%E6%96%B9%E5%BC%8F)<br>
+[10、Linux 有哪些系统日志文件？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#10linux-%E6%9C%89%E5%93%AA%E4%BA%9B%E7%B3%BB%E7%BB%9F%E6%97%A5%E5%BF%97%E6%96%87%E4%BB%B6)<br>
+[11、Linux系统安装多个桌面环境有帮助吗?](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#11linux%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%A4%9A%E4%B8%AA%E6%A1%8C%E9%9D%A2%E7%8E%AF%E5%A2%83%E6%9C%89%E5%B8%AE%E5%8A%A9%E5%90%97)<br>
+[12、什么是交换空间？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#12%E4%BB%80%E4%B9%88%E6%98%AF%E4%BA%A4%E6%8D%A2%E7%A9%BA%E9%97%B4)<br>
+[13、什么是root帐户?](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#13%E4%BB%80%E4%B9%88%E6%98%AFroot%E5%B8%90%E6%88%B7)<br>
+[14、什么是LILO？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#14%E4%BB%80%E4%B9%88%E6%98%AFlilo)<br>
+[15、什么是BASH？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#15%E4%BB%80%E4%B9%88%E6%98%AFbash)<br>
+[16、什么是CLI？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#16%E4%BB%80%E4%B9%88%E6%98%AFcli)<br>
+[17、什么是GUI？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#17%E4%BB%80%E4%B9%88%E6%98%AFgui)<br>
+[18、开源的优势是什么？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#18%E5%BC%80%E6%BA%90%E7%9A%84%E4%BC%98%E5%8A%BF%E6%98%AF%E4%BB%80%E4%B9%88)<br>
+[19、简单 Linux 文件系统？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#19%E7%AE%80%E5%8D%95-linux-%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F)<br>
+[20、Linux 的目录结构是怎样的？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#20linux-%E7%9A%84%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84%E6%98%AF%E6%80%8E%E6%A0%B7%E7%9A%84)<br>
+[21、什么是 inode ？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#21%E4%BB%80%E4%B9%88%E6%98%AF-inode-)<br>
+[22、什么是硬链接和软链接？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#22%E4%BB%80%E4%B9%88%E6%98%AF%E7%A1%AC%E9%93%BE%E6%8E%A5%E5%92%8C%E8%BD%AF%E9%93%BE%E6%8E%A5)<br>
+[23、RAID 是什么?](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#23raid-%E6%98%AF%E4%BB%80%E4%B9%88)<br>
+[24、一台 Linux 系统初始化环境后需要做一些什么安全工作？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#24%E4%B8%80%E5%8F%B0-linux-%E7%B3%BB%E7%BB%9F%E5%88%9D%E5%A7%8B%E5%8C%96%E7%8E%AF%E5%A2%83%E5%90%8E%E9%9C%80%E8%A6%81%E5%81%9A%E4%B8%80%E4%BA%9B%E4%BB%80%E4%B9%88%E5%AE%89%E5%85%A8%E5%B7%A5%E4%BD%9C)<br>
+[25、什么叫 CC 攻击？什么叫 DDOS 攻击？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#25%E4%BB%80%E4%B9%88%E5%8F%AB-cc-%E6%94%BB%E5%87%BB%E4%BB%80%E4%B9%88%E5%8F%AB-ddos-%E6%94%BB%E5%87%BB)<br>
+[26、什么是网站数据库注入？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#26%E4%BB%80%E4%B9%88%E6%98%AF%E7%BD%91%E7%AB%99%E6%95%B0%E6%8D%AE%E5%BA%93%E6%B3%A8%E5%85%A5)<br>
+[27、Shell 脚本是什么？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#27shell-%E8%84%9A%E6%9C%AC%E6%98%AF%E4%BB%80%E4%B9%88)<br>
+[28、可以在 Shell 脚本中使用哪些类型的变量？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#28%E5%8F%AF%E4%BB%A5%E5%9C%A8-shell-%E8%84%9A%E6%9C%AC%E4%B8%AD%E4%BD%BF%E7%94%A8%E5%93%AA%E4%BA%9B%E7%B1%BB%E5%9E%8B%E7%9A%84%E5%8F%98%E9%87%8F)<br>
+[29、Shell 脚本中 `if` 语法如何嵌套?](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#29shell-%E8%84%9A%E6%9C%AC%E4%B8%AD-if-%E8%AF%AD%E6%B3%95%E5%A6%82%E4%BD%95%E5%B5%8C%E5%A5%97)<br>
+[30、Shell 脚本中 `case` 语句的语法?](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#30shell-%E8%84%9A%E6%9C%AC%E4%B8%AD-case-%E8%AF%AD%E5%8F%A5%E7%9A%84%E8%AF%AD%E6%B3%95)<br>
+[31、Shell 脚本中 `for` 循环语法？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#31shell-%E8%84%9A%E6%9C%AC%E4%B8%AD-for-%E5%BE%AA%E7%8E%AF%E8%AF%AD%E6%B3%95)<br>
+[32、Shell 脚本中 `while` 循环语法？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#32shell-%E8%84%9A%E6%9C%AC%E4%B8%AD-while-%E5%BE%AA%E7%8E%AF%E8%AF%AD%E6%B3%95)<br>
+[33、如何使脚本可执行?](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#33%E5%A6%82%E4%BD%95%E4%BD%BF%E8%84%9A%E6%9C%AC%E5%8F%AF%E6%89%A7%E8%A1%8C)<br>
+[34、在 Shell 脚本如何定义函数呢？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#34%E5%9C%A8-shell-%E8%84%9A%E6%9C%AC%E5%A6%82%E4%BD%95%E5%AE%9A%E4%B9%89%E5%87%BD%E6%95%B0%E5%91%A2)<br>
+[35、判断一文件是不是字符设备文件，如果是将其拷贝到 `/dev` 目录下？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#35%E5%88%A4%E6%96%AD%E4%B8%80%E6%96%87%E4%BB%B6%E6%98%AF%E4%B8%8D%E6%98%AF%E5%AD%97%E7%AC%A6%E8%AE%BE%E5%A4%87%E6%96%87%E4%BB%B6%E5%A6%82%E6%9E%9C%E6%98%AF%E5%B0%86%E5%85%B6%E6%8B%B7%E8%B4%9D%E5%88%B0-dev-%E7%9B%AE%E5%BD%95%E4%B8%8B)<br>
+[36、添加一个新组为 class1 ，然后添加属于这个组的 30 个用户，用户名的形式为 stdxx ，其中 xx 从 01 到 30 ？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#36%E6%B7%BB%E5%8A%A0%E4%B8%80%E4%B8%AA%E6%96%B0%E7%BB%84%E4%B8%BA-class1-%E7%84%B6%E5%90%8E%E6%B7%BB%E5%8A%A0%E5%B1%9E%E4%BA%8E%E8%BF%99%E4%B8%AA%E7%BB%84%E7%9A%84-30-%E4%B8%AA%E7%94%A8%E6%88%B7%E7%94%A8%E6%88%B7%E5%90%8D%E7%9A%84%E5%BD%A2%E5%BC%8F%E4%B8%BA-stdxx-%E5%85%B6%E4%B8%AD-xx-%E4%BB%8E-01-%E5%88%B0-30-)<br>
+[37、写一个 sed 命令，修改 `/tmp/input.txt` 文件的内容？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#37%E5%86%99%E4%B8%80%E4%B8%AA-sed-%E5%91%BD%E4%BB%A4%E4%BF%AE%E6%94%B9-tmpinputtxt-%E6%96%87%E4%BB%B6%E7%9A%84%E5%86%85%E5%AE%B9)<br>
 38、用户进程间通信主要哪几种方式?<br>
 39、通过伙伴系统申请内核内存的函数有哪些?<br>
 40、Linux 虚拟文件系统的关键数据结构有哪些?(至少写出四个)<br>
