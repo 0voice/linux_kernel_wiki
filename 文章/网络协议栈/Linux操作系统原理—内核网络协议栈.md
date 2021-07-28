@@ -3,27 +3,27 @@
 
 ### 数据报文的封装与分用
 
-![11.png](https://img13.360buyimg.com/ddimg/jfs/t1/182975/33/16226/290860/610116feE9737eeb9/80bd9aa6acfae3ca.png)
+![img.png](https://img13.360buyimg.com/ddimg/jfs/t1/182975/33/16226/290860/610116feE9737eeb9/80bd9aa6acfae3ca.png)
 
 封装：当应用程序用 TCP 协议传送数据时，数据首先进入内核网络协议栈中，然后逐一通过 TCP/IP 协议族的每层直到被当作一串比特流送入网络。对于每一层而言，对收到的数据都会封装相应的协议首部信息（有时还会增加尾部信息）。TCP 协议传给 IP 协议的数据单元称作 TCP 报文段，或简称 TCP 段（TCP segment）。IP 传给数据链路层的数据单元称作 IP 数据报（IP datagram），最后通过以太网传输的比特流称作帧（Frame）
 
-![22.png](https://img10.360buyimg.com/ddimg/jfs/t1/187549/40/15407/142770/610116fdEaecb144d/42e0689805e556fc.png)
+![img.png](https://img10.360buyimg.com/ddimg/jfs/t1/187549/40/15407/142770/610116fdEaecb144d/42e0689805e556fc.png)
 
 分用：当目的主机收到一个以太网数据帧时，数据就开始从内核网络协议栈中由底向上升，同时去掉各层协议加上的报文首部。每层协议都会检查报文首部中的协议标识，以确定接收数据的上层协议。这个过程称作分用。
 
-![23.png](https://img13.360buyimg.com/ddimg/jfs/t1/180869/34/16538/384674/610116fdE6ce6c950/d42c62b0d82c41e4.png)
+![img.png](https://img13.360buyimg.com/ddimg/jfs/t1/180869/34/16538/384674/610116fdE6ce6c950/d42c62b0d82c41e4.png)
 
 ## Linux 内核网络协议栈
 
 ### 协议栈的全景图
 
-![24.png](https://img10.360buyimg.com/ddimg/jfs/t1/195665/6/15277/400984/610116fdE65683238/f59c2e167eaedd09.png)
+![img.png](https://img10.360buyimg.com/ddimg/jfs/t1/195665/6/15277/400984/610116fdE65683238/f59c2e167eaedd09.png)
 
 ### 协议栈的分层结构
 
-![25.png](https://img13.360buyimg.com/ddimg/jfs/t1/190516/13/15338/42356/610116fcE4a405462/0bf912c37bbfe692.png)
+![img.png](https://img13.360buyimg.com/ddimg/jfs/t1/190516/13/15338/42356/610116fcE4a405462/0bf912c37bbfe692.png)
 
-![26.png](https://img13.360buyimg.com/ddimg/jfs/t1/194294/8/15433/60844/610116fdEe1e5eab4/f014ca04c2ce0d56.png)
+![img.png](https://img13.360buyimg.com/ddimg/jfs/t1/194294/8/15433/60844/610116fdEe1e5eab4/f014ca04c2ce0d56.png)
 
 **逻辑抽象层级：**
 
@@ -53,11 +53,11 @@ INET（指一切支持 IP 协议的网络） socket：INET socket 层，调用 I
 
 系统调用接口层（System call interface），实质是一个面向用户空间（User Space）应用程序的接口调用库，向用户空间应用程序提供使用网络服务的接口。
 
-![27.jpeg](https://img10.360buyimg.com/ddimg/jfs/t1/197372/39/266/109964/610116fdEcdc170ab/dd6436eded9c9c95.jpg)
+![img.jpeg](https://img10.360buyimg.com/ddimg/jfs/t1/197372/39/266/109964/610116fdEcdc170ab/dd6436eded9c9c95.jpg)
 
 ### 协议栈的数据结构
 
-![28.png](https://img12.360buyimg.com/ddimg/jfs/t1/187491/17/15299/231260/610116fdE3c89d3d5/d5447bc620ef3a94.png)
+![img.png](https://img12.360buyimg.com/ddimg/jfs/t1/187491/17/15299/231260/610116fdE3c89d3d5/d5447bc620ef3a94.png)
 
 msghdr：描述了从应用层传递下来的消息格式，包含有用户空间地址，消息标记等重要信息。
 
@@ -119,7 +119,7 @@ start_kenrel() 定义在 init/main.c 中，真正的内核初始化过程就是�
 
 start_kernel() 中主要函数及调用关系如下：
 
-![29.png](https://img14.360buyimg.com/ddimg/jfs/t1/192345/20/15345/58625/610116fdE002185b0/4ebe05711c43481c.png)
+![img.png](https://img14.360buyimg.com/ddimg/jfs/t1/192345/20/15345/58625/610116fdE002185b0/4ebe05711c43481c.png)
 
 start_kernel() 的过程中会执行 socket_init() 来完成协议栈的初始化，实现如下：
 
@@ -159,7 +159,7 @@ void sock_init(void)//网络栈初始化
 }
 ```
 
-![30.jpeg](https://img10.360buyimg.com/ddimg/jfs/t1/195262/31/15211/90524/610116fdE38974f1d/7f22fc5985e9639b.jpg)
+![img.jpeg](https://img10.360buyimg.com/ddimg/jfs/t1/195262/31/15211/90524/610116fdE38974f1d/7f22fc5985e9639b.jpg)
 
 sock_init() 包含了内核协议栈的初始化工作：
 
@@ -195,15 +195,15 @@ dev_add_pack(&ip_packet_type);：向 ptype_base[PTYPE_HASH_SIZE]; 注册 IP 协�
 
 socket.c 提供的系统调用接口。
 
-![31.png](https://img11.360buyimg.com/ddimg/jfs/t1/194186/27/15435/41198/610116fdE0d78136b/cd5b4a31b4b03c13.png)
+![img.png](https://img11.360buyimg.com/ddimg/jfs/t1/194186/27/15435/41198/610116fdE0d78136b/cd5b4a31b4b03c13.png)
 
-![32.png](https://img12.360buyimg.com/ddimg/jfs/t1/181740/26/16252/116695/610116fdE3ecf71e8/bc64afffc90b1420.png)
+[![WTgxRx.md.png](https://z3.ax1x.com/2021/07/28/WTgxRx.md.png)](https://imgtu.com/i/WTgxRx)
 
 协议栈初始化完成后再执行 dev_init()，继续设备的初始化。
 
 ## Socket 创建流程
 
-![33.png](https://img13.360buyimg.com/ddimg/jfs/t1/184848/1/16195/218607/610116fdE9d6713c7/cb280d149a71b5f3.png)
+![img.png](https://img13.360buyimg.com/ddimg/jfs/t1/184848/1/16195/218607/610116fdE9d6713c7/cb280d149a71b5f3.png)
 
 ## 协议栈收包流程概述
 
@@ -262,7 +262,7 @@ int ethdev_init(struct device *dev)
 ```
 ## UDP 的收发包流程总览
 
-![34.png](https://img11.360buyimg.com/ddimg/jfs/t1/188115/9/15656/852324/61011704Ec8a86952/d68ee937ad7c4289.png)
+![img.png](https://img11.360buyimg.com/ddimg/jfs/t1/188115/9/15656/852324/61011704Ec8a86952/d68ee937ad7c4289.png)
 
 ## 内核中断收包流程
 
@@ -270,9 +270,9 @@ int ethdev_init(struct device *dev)
 
 ## UDP 收包流程
 
-![36.png](https://img12.360buyimg.com/ddimg/jfs/t1/190813/34/15527/319718/610116fdEb1203ff7/8d4dfc7df528ed96.png)
+[![WTgrxf.png](https://z3.ax1x.com/2021/07/28/WTgrxf.png)](https://imgtu.com/i/WTgrxf)
 
 ## UDP 发包流程
 
-![37.png](https://img10.360buyimg.com/ddimg/jfs/t1/197199/2/272/153191/610116fdE0b4ff2a4/2d650dc2596fdffe.png)
+[![WTgDRP.png](https://z3.ax1x.com/2021/07/28/WTgDRP.png)](https://imgtu.com/i/WTgDRP)
 
