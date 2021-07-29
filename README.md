@@ -302,6 +302,32 @@ No.|Project|Introduction|
 
 <br>
 
+<h2 id="10">📕 电子书籍</h2>
+
+[《Linux内核完全注释V3.0书签版》](https://github.com/0voice/linux_kernel_wiki/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/Linux%E5%86%85%E6%A0%B8%E5%AE%8C%E5%85%A8%E6%B3%A8%E9%87%8AV3.0%E4%B9%A6%E7%AD%BE%E7%89%88.pdf)
+
+[《Linux命令行大全 - 绍茨 (william E.shotts)》](https://github.com/0voice/linux_kernel_wiki/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/Linux%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%A4%A7%E5%85%A8%20-%20%E7%BB%8D%E8%8C%A8%20(william%20E.shotts).pdf)
+
+[《Linux命令速查手册》](https://github.com/0voice/linux_kernel_wiki/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/Linux%E5%91%BD%E4%BB%A4%E9%80%9F%E6%9F%A5%E6%89%8B%E5%86%8C.mobi)
+
+[《Linux就该这么学》](https://github.com/0voice/linux_kernel_wiki/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/Linux%E5%B0%B1%E8%AF%A5%E8%BF%99%E4%B9%88%E5%AD%A6.epub)
+
+[《Linux性能优化大师》](https://github.com/0voice/linux_kernel_wiki/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/Linux%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E5%A4%A7%E5%B8%88.epub)
+
+[《Linux环境编程：从应用到内核 (Linux Unix技术丛书)》](https://github.com/0voice/linux_kernel_wiki/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/Linux%E7%8E%AF%E5%A2%83%E7%BC%96%E7%A8%8B%EF%BC%9A%E4%BB%8E%E5%BA%94%E7%94%A8%E5%88%B0%E5%86%85%E6%A0%B8%20(Linux%20Unix%E6%8A%80%E6%9C%AF%E4%B8%9B%E4%B9%A6).pdf)
+
+[《Linux集群和自动化运维 余洪春》](https://github.com/0voice/linux_kernel_wiki/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/Linux%E9%9B%86%E7%BE%A4%E5%92%8C%E8%87%AA%E5%8A%A8%E5%8C%96%E8%BF%90%E7%BB%B4%20%20%E4%BD%99%E6%B4%AA%E6%98%A5.pdf)
+
+[《Linux驱动程序开发实例(第2版)》](https://github.com/0voice/linux_kernel_wiki/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/Linux%E9%A9%B1%E5%8A%A8%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E5%AE%9E%E4%BE%8B%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.pdf)
+
+[《Linux高级程序设计(第3版)》](https://github.com/0voice/linux_kernel_wiki/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/Linux%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1(%E7%AC%AC3%E7%89%88).epub)
+
+[《构建高可用Linux服务器(第4版)》](https://github.com/0voice/linux_kernel_wiki/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E6%9E%84%E5%BB%BA%E9%AB%98%E5%8F%AF%E7%94%A8Linux%E6%9C%8D%E5%8A%A1%E5%99%A8(%E7%AC%AC4%E7%89%88).epub)
+
+[《深入了解Linux内核》](https://github.com/0voice/linux_kernel_wiki/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E6%B7%B1%E5%85%A5%E4%BA%86%E8%A7%A3Linux%E5%86%85%E6%A0%B8.pdf)
+
+<br>
+
 <h2 id="1">📁 Linux内核组成 </h2> 
 
 Linux内核主要由 **进程管理**、**内存管理**、**设备驱动**、**文件系统**、**网络协议栈** 外加一个 **系统调用**。<br>
@@ -448,31 +474,7 @@ Linux内核主要由 **进程管理**、**内存管理**、**设备驱动**、**
 	* 蓝牙数据包接收架构
 
 
-<h2 id="10">📕 电子书籍</h2>
 
-Linux内核完全注释V3.0书签版
-
-Linux命令行大全 - 绍茨 (william E.shotts)
-
-Linux命令速查手册
-
-Linux就该这么学
-
-Linux性能优化大师
-
-Linux环境编程：从应用到内核 (Linux Unix技术丛书)
-
-Linux集群和自动化运维 余洪春
-
-Linux驱动程序开发实例（第2版）
-
-Linux高级程序设计(第3版)
-
-构建高可用Linux服务器(第4版)
-
-深入了解Linux内核
-
-<br>
 
 <h2  id="11">🤝 鸣谢</h1>
 
