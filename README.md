@@ -4,20 +4,25 @@
     
 </div>
 
-<div align=center >
-<img height="240" width="280" src="https://img12.360buyimg.com/ddimg/jfs/t1/194768/6/15049/33737/60fe73c5E29d5ae0e/c5592d184e06b78e.png"></img>
 
-#### [源码下载：9vni](https://pan.baidu.com/s/15fOf1EvhV8yv5QqmFWjLBw)
+<div align=center >	
+</br>	
+</br>
+	
+[**经典文章**](#5) | [**paper**](#6) | [**大佬视频**](#7)
+:------: | :------: | :------: 
+[**面试题**](#8) | <img height="200" width="240" src="https://img12.360buyimg.com/ddimg/jfs/t1/194768/6/15049/33737/60fe73c5E29d5ae0e/c5592d184e06b78e.png"></img>| [**开源项目**](#9)
+[**知识体系**](#3) | [**电子书籍**](#10) | [**源码下载：9vni**](https://pan.baidu.com/s/15fOf1EvhV8yv5QqmFWjLBw)  
   
 </div>
 
 ## 前言
 在我们学习Linux内核之前，我们首先需要掌握一下几点：
 
-* [了解Linux内核由哪些组成？](#1)（[文章直达🖱](#5)）
-* [须知Linux内核源码（下载的链接👆👆👆）组织结构？](#2)（[文章直达🖱](#5)）
-* [重点需要学习地知识点有哪些？](#3)（[文章直达🖱](#5)）（[论文直达🖱](#6)）（[视频直达🖱](#7)）（[面试题直达🖱](#8)）
-* [最后依据我为大家提供的的学习资料，开启我们的Linux学习之旅。](#4)（[内核项目直达🖱](#9)）
+* [了解Linux内核由哪些组成？](#1)
+* [须知Linux内核源码（下载的链接👆👆👆）组织结构？](#2)
+* [重点需要学习地知识点有哪些？](#3)
+* [最后依据我为大家提供的的学习资料，开启我们的Linux学习之旅。](#4)
 
 <h3 id="1">Linux内核组成 </h3> 
 
@@ -415,6 +420,10 @@ No.|Project|Introduction|
 32 | [linux-pentest](https://github.com/ankh2054/linux-pentest) | Linux穿透测试工具
 
 </div>
+
+<br>
+
+<h2 id="10">电子书籍</h2>
 
 <br>
 
