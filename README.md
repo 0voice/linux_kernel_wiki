@@ -154,13 +154,13 @@ No.|Title|Translation（参考）|Company
 
 8、Threads and Thread Handing（线程和线程处理）[百度网盘：erxm](https://pan.baidu.com/s/1kFgrXMlwjwaXEhHrNn4YMg)<br>
 
-9、Steven Rostedt - Learning the Linux Kernel with tracing（Steven Rostedt -通过跟踪学习Linux内核）[百度网盘：066g](https://pan.baidu.com/s/1dryMKlBjTMOBPdwOgZS8gQ)<br>
+9、Learning the Linux Kernel with tracing（通过跟踪学习Linux内核）[百度网盘：066g](https://pan.baidu.com/s/1dryMKlBjTMOBPdwOgZS8gQ)<br>
 
-10、Linux Tutorials- How to Apply a Patch to the Linux Kernel Stable Tree（如何将补丁应用到Linux内核稳定树）[百度网盘：955e](https://pan.baidu.com/s/1r1MxgqOofOvCerFuQp_xTw)<br>
+10、How to Apply a Patch to the Linux Kernel Stable Tree（如何将补丁应用到Linux内核稳定树）[百度网盘：955e](https://pan.baidu.com/s/1r1MxgqOofOvCerFuQp_xTw)<br>
 
 11、Linux Kernel Programming（Linux内核编程- atomic_t数据类型-原子变量和api）[百度网盘：njt0](https://pan.baidu.com/s/1oK3XzU-n4_wmYjH1UHA5sQ)<br>
 
-12、Kernel Recipes 2017 - Brendan Gregg  [百度网盘：lrex](https://pan.baidu.com/s/1B9VFegjTeOY7QosSmjxgFA)<br>
+12、Kernel Recipes 2017 - 性能优化大牛Brendan Gregg  [百度网盘：lrex](https://pan.baidu.com/s/1B9VFegjTeOY7QosSmjxgFA)<br>
 
 <br>
 
