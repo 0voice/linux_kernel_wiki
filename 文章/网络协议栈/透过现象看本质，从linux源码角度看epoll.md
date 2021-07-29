@@ -114,6 +114,7 @@ struct eventpoll {
     struct epitem *ovflist; /*在向用户空间传输就绪事件的时候，将同时发生事件的文件描述符链入到这个链表里面*/
 };
 ```
+![image](https://user-images.githubusercontent.com/87457873/127447515-829c67df-666a-4f50-a8b0-46ab79696766.png)
 
 
 ## 函数调用关系
