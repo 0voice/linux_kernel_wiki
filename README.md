@@ -450,6 +450,28 @@ Linux内核主要由 **进程管理**、**内存管理**、**设备驱动**、**
 
 <h2 id="10">📕 电子书籍</h2>
 
+Linux内核完全注释V3.0书签版
+
+Linux命令行大全 - 绍茨 (william E.shotts)
+
+Linux命令速查手册
+
+Linux就该这么学
+
+Linux性能优化大师
+
+Linux环境编程：从应用到内核 (Linux Unix技术丛书)
+
+Linux集群和自动化运维 余洪春
+
+Linux驱动程序开发实例（第2版）
+
+Linux高级程序设计(第3版)
+
+构建高可用Linux服务器(第4版)
+
+深入了解Linux内核
+
 <br>
 
 <h2  id="11">🤝 鸣谢</h1>
