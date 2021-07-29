@@ -11,8 +11,8 @@
 	
 [**经典文章**](#5) | [**paper**](#6) | [**大佬视频**](#7)
 :------: | :------: | :------: 
-[**面试题**](#8) | <img height="200" width="240" src="https://img12.360buyimg.com/ddimg/jfs/t1/194768/6/15049/33737/60fe73c5E29d5ae0e/c5592d184e06b78e.png"></img>| [**开源项目**](#9)
-[**知识体系**](#3) | [**电子书籍**](#10) | [**源码下载：9vni**](https://pan.baidu.com/s/15fOf1EvhV8yv5QqmFWjLBw)  
+[**面试题**](#8) | <img height="180" width="220" src="https://img12.360buyimg.com/ddimg/jfs/t1/194768/6/15049/33737/60fe73c5E29d5ae0e/c5592d184e06b78e.png"></img>| [**开源项目**](#9)
+[**知识体系**](#3) | [**电子书籍**](#10) | [**源码下载**](https://www.kernel.org/)  
   
 </div>
 
