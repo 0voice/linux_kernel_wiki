@@ -218,42 +218,42 @@ No.|Title|Translation（参考）|Company
 [35、判断一文件是不是字符设备文件，如果是将其拷贝到 `/dev` 目录下？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#35%E5%88%A4%E6%96%AD%E4%B8%80%E6%96%87%E4%BB%B6%E6%98%AF%E4%B8%8D%E6%98%AF%E5%AD%97%E7%AC%A6%E8%AE%BE%E5%A4%87%E6%96%87%E4%BB%B6%E5%A6%82%E6%9E%9C%E6%98%AF%E5%B0%86%E5%85%B6%E6%8B%B7%E8%B4%9D%E5%88%B0-dev-%E7%9B%AE%E5%BD%95%E4%B8%8B)<br>
 [36、添加一个新组为 class1 ，然后添加属于这个组的 30 个用户，用户名的形式为 stdxx ，其中 xx 从 01 到 30 ？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#36%E6%B7%BB%E5%8A%A0%E4%B8%80%E4%B8%AA%E6%96%B0%E7%BB%84%E4%B8%BA-class1-%E7%84%B6%E5%90%8E%E6%B7%BB%E5%8A%A0%E5%B1%9E%E4%BA%8E%E8%BF%99%E4%B8%AA%E7%BB%84%E7%9A%84-30-%E4%B8%AA%E7%94%A8%E6%88%B7%E7%94%A8%E6%88%B7%E5%90%8D%E7%9A%84%E5%BD%A2%E5%BC%8F%E4%B8%BA-stdxx-%E5%85%B6%E4%B8%AD-xx-%E4%BB%8E-01-%E5%88%B0-30-)<br>
 [37、写一个 sed 命令，修改 `/tmp/input.txt` 文件的内容？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#37%E5%86%99%E4%B8%80%E4%B8%AA-sed-%E5%91%BD%E4%BB%A4%E4%BF%AE%E6%94%B9-tmpinputtxt-%E6%96%87%E4%BB%B6%E7%9A%84%E5%86%85%E5%AE%B9)<br>
-38、用户进程间通信主要哪几种方式?<br>
-39、通过伙伴系统申请内核内存的函数有哪些?<br>
-40、Linux 虚拟文件系统的关键数据结构有哪些?(至少写出四个)<br>
-41、对文件或设备的操作函数保存在那个数据结构中?<br>
-42、Linux 中的文件包括哪些?<br>
-43、创建进程的系统调用有那些?<br>
-44、调用 schedule()进行进程切换的方式有几种?<br>
-45、Linux 调度程序是根据进程的动态优先级还是静态优先级来调度进程的?<br>
-46、进程调度的核心数据结构是哪个?<br>
-47、如何加载、卸载一个模块?<br>
-48、模块和应用程序分别运行在什么空间?<br>
-49、Linux 中的浮点运算由应用程序实现还是内核实现?<br>
-50、模块程序能否使用可链接的库函数?<br>
-51、TLB 中缓存的是什么内容?<br>
-52、Linux 中有哪几种设备?<br>
-53、字符设备驱动程序的关键数据结构是哪个?<br>
-54、设备驱动程序包括哪些功能函数?<br>
-55、如何唯一标识一个设备?<br>
-56、Linux 通过什么方式实现系统调用?<br>
-57、Linux 软中断和工作队列的作用是什么?<br>
-58、Linux开机启动过程？ <br>
-59、Linux系统缺省的运行级别 <br>
-60、Linux系统是由那些部分组成？ <br>
-61、硬链接和软链接有什么区别？ <br>
-62、如何规划一台Linux主机，步骤是怎样？ <br>
-63、查看系统当前进程连接数？ <br>
-64、如何在/usr目录下找出大小超过10MB的文件? <br>
-65、添加一条到192.168.3.0/24的路由，网关为192.168.1.254？ <br>
-66、如何在/var目录下找出90天之内未被访问过的文件? <br>
-67、如何在/home目录下找出120天之前被修改过的文件? <br>
-68、在整个目录树下查找文件“core”，如发现则无需提示直接删除它们。 <br>
-69、有一普通用户想在每周日凌晨零点零分定期备份/user/backup到/tmp目录下，该用户应如何做? <br>
-70、每周一下午三点将/tmp/logs目录下面的后缀为*.log的所有文件rsync同步到备份服务器192.168.1.100中同样的目录下面，crontab配置项该如何写？<br>
-71、找到/tmp/目录下面的所有名称以"_s1.jpg"结尾的普通文件，如果其修改日期在一天内，则将其打包到/tmp/back.tar.gz文件中 <br>
-72、配置mysql服务器的时候，配置了auto_increment_increment=3，请问这里的3意味着什么？<br>
-73、详细说明keepalived的故障切换工作原理<br>
+[38、用户进程间通信主要哪几种方式?](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#38%E7%94%A8%E6%88%B7%E8%BF%9B%E7%A8%8B%E9%97%B4%E9%80%9A%E4%BF%A1%E4%B8%BB%E8%A6%81%E5%93%AA%E5%87%A0%E7%A7%8D%E6%96%B9%E5%BC%8F)<br>
+[39、通过伙伴系统申请内核内存的函数有哪些?](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#39%E9%80%9A%E8%BF%87%E4%BC%99%E4%BC%B4%E7%B3%BB%E7%BB%9F%E7%94%B3%E8%AF%B7%E5%86%85%E6%A0%B8%E5%86%85%E5%AD%98%E7%9A%84%E5%87%BD%E6%95%B0%E6%9C%89%E5%93%AA%E4%BA%9B)<br>
+[40、Linux 虚拟文件系统的关键数据结构有哪些?(至少写出四个)](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#40linux-%E8%99%9A%E6%8B%9F%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%85%B3%E9%94%AE%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E6%9C%89%E5%93%AA%E4%BA%9B%E8%87%B3%E5%B0%91%E5%86%99%E5%87%BA%E5%9B%9B%E4%B8%AA)<br>
+[41、对文件或设备的操作函数保存在那个数据结构中?](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#41%E5%AF%B9%E6%96%87%E4%BB%B6%E6%88%96%E8%AE%BE%E5%A4%87%E7%9A%84%E6%93%8D%E4%BD%9C%E5%87%BD%E6%95%B0%E4%BF%9D%E5%AD%98%E5%9C%A8%E9%82%A3%E4%B8%AA%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%AD)<br>
+[42、Linux 中的文件包括哪些?](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#42linux-%E4%B8%AD%E7%9A%84%E6%96%87%E4%BB%B6%E5%8C%85%E6%8B%AC%E5%93%AA%E4%BA%9B)<br>
+[43、创建进程的系统调用有那些?](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#43%E5%88%9B%E5%BB%BA%E8%BF%9B%E7%A8%8B%E7%9A%84%E7%B3%BB%E7%BB%9F%E8%B0%83%E7%94%A8%E6%9C%89%E9%82%A3%E4%BA%9B)<br>
+[44、调用 schedule()进行进程切换的方式有几种?](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#44%E8%B0%83%E7%94%A8-schedule%E8%BF%9B%E8%A1%8C%E8%BF%9B%E7%A8%8B%E5%88%87%E6%8D%A2%E7%9A%84%E6%96%B9%E5%BC%8F%E6%9C%89%E5%87%A0%E7%A7%8D)<br>
+[45、Linux 调度程序是根据进程的动态优先级还是静态优先级来调度进程的?](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#45linux-%E8%B0%83%E5%BA%A6%E7%A8%8B%E5%BA%8F%E6%98%AF%E6%A0%B9%E6%8D%AE%E8%BF%9B%E7%A8%8B%E7%9A%84%E5%8A%A8%E6%80%81%E4%BC%98%E5%85%88%E7%BA%A7%E8%BF%98%E6%98%AF%E9%9D%99%E6%80%81%E4%BC%98%E5%85%88%E7%BA%A7%E6%9D%A5%E8%B0%83%E5%BA%A6%E8%BF%9B%E7%A8%8B%E7%9A%84)<br>
+[46、进程调度的核心数据结构是哪个?](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#46%E8%BF%9B%E7%A8%8B%E8%B0%83%E5%BA%A6%E7%9A%84%E6%A0%B8%E5%BF%83%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E6%98%AF%E5%93%AA%E4%B8%AA)<br>
+[47、如何加载、卸载一个模块?](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#47%E5%A6%82%E4%BD%95%E5%8A%A0%E8%BD%BD%E5%8D%B8%E8%BD%BD%E4%B8%80%E4%B8%AA%E6%A8%A1%E5%9D%97)<br>
+[48、模块和应用程序分别运行在什么空间?](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#48%E6%A8%A1%E5%9D%97%E5%92%8C%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%88%86%E5%88%AB%E8%BF%90%E8%A1%8C%E5%9C%A8%E4%BB%80%E4%B9%88%E7%A9%BA%E9%97%B4)<br>
+[49、Linux 中的浮点运算由应用程序实现还是内核实现?](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#49linux-%E4%B8%AD%E7%9A%84%E6%B5%AE%E7%82%B9%E8%BF%90%E7%AE%97%E7%94%B1%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%AE%9E%E7%8E%B0%E8%BF%98%E6%98%AF%E5%86%85%E6%A0%B8%E5%AE%9E%E7%8E%B0)<br>
+[50、模块程序能否使用可链接的库函数?](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#50%E6%A8%A1%E5%9D%97%E7%A8%8B%E5%BA%8F%E8%83%BD%E5%90%A6%E4%BD%BF%E7%94%A8%E5%8F%AF%E9%93%BE%E6%8E%A5%E7%9A%84%E5%BA%93%E5%87%BD%E6%95%B0)<br>
+[51、TLB 中缓存的是什么内容?](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#51tlb-%E4%B8%AD%E7%BC%93%E5%AD%98%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88%E5%86%85%E5%AE%B9)<br>
+[52、Linux 中有哪几种设备?](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#52linux-%E4%B8%AD%E6%9C%89%E5%93%AA%E5%87%A0%E7%A7%8D%E8%AE%BE%E5%A4%87)<br>
+[53、字符设备驱动程序的关键数据结构是哪个?](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#53%E5%AD%97%E7%AC%A6%E8%AE%BE%E5%A4%87%E9%A9%B1%E5%8A%A8%E7%A8%8B%E5%BA%8F%E7%9A%84%E5%85%B3%E9%94%AE%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E6%98%AF%E5%93%AA%E4%B8%AA)<br>
+[54、设备驱动程序包括哪些功能函数?](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#54%E8%AE%BE%E5%A4%87%E9%A9%B1%E5%8A%A8%E7%A8%8B%E5%BA%8F%E5%8C%85%E6%8B%AC%E5%93%AA%E4%BA%9B%E5%8A%9F%E8%83%BD%E5%87%BD%E6%95%B0)<br>
+[55、如何唯一标识一个设备?](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#55%E5%A6%82%E4%BD%95%E5%94%AF%E4%B8%80%E6%A0%87%E8%AF%86%E4%B8%80%E4%B8%AA%E8%AE%BE%E5%A4%87)<br>
+[56、Linux 通过什么方式实现系统调用?](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#56linux-%E9%80%9A%E8%BF%87%E4%BB%80%E4%B9%88%E6%96%B9%E5%BC%8F%E5%AE%9E%E7%8E%B0%E7%B3%BB%E7%BB%9F%E8%B0%83%E7%94%A8)<br>
+[57、Linux 软中断和工作队列的作用是什么?](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#57linux-%E8%BD%AF%E4%B8%AD%E6%96%AD%E5%92%8C%E5%B7%A5%E4%BD%9C%E9%98%9F%E5%88%97%E7%9A%84%E4%BD%9C%E7%94%A8%E6%98%AF%E4%BB%80%E4%B9%88)<br>
+[58、Linux开机启动过程？ ](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#58linux%E5%BC%80%E6%9C%BA%E5%90%AF%E5%8A%A8%E8%BF%87%E7%A8%8B)<br>
+[59、Linux系统缺省的运行级别 ](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#59linux%E7%B3%BB%E7%BB%9F%E7%BC%BA%E7%9C%81%E7%9A%84%E8%BF%90%E8%A1%8C%E7%BA%A7%E5%88%AB)<br>
+[60、Linux系统是由那些部分组成？ ](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#60linux%E7%B3%BB%E7%BB%9F%E6%98%AF%E7%94%B1%E9%82%A3%E4%BA%9B%E9%83%A8%E5%88%86%E7%BB%84%E6%88%90)<br>
+[61、硬链接和软链接有什么区别？ ](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#61%E7%A1%AC%E9%93%BE%E6%8E%A5%E5%92%8C%E8%BD%AF%E9%93%BE%E6%8E%A5%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB)<br>
+[62、如何规划一台Linux主机，步骤是怎样？ ](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#62%E5%A6%82%E4%BD%95%E8%A7%84%E5%88%92%E4%B8%80%E5%8F%B0linux%E4%B8%BB%E6%9C%BA%E6%AD%A5%E9%AA%A4%E6%98%AF%E6%80%8E%E6%A0%B7)<br>
+[63、查看系统当前进程连接数？ ](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#63%E6%9F%A5%E7%9C%8B%E7%B3%BB%E7%BB%9F%E5%BD%93%E5%89%8D%E8%BF%9B%E7%A8%8B%E8%BF%9E%E6%8E%A5%E6%95%B0)<br>
+[64、如何在/usr目录下找出大小超过10MB的文件? ](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#64%E5%A6%82%E4%BD%95%E5%9C%A8usr%E7%9B%AE%E5%BD%95%E4%B8%8B%E6%89%BE%E5%87%BA%E5%A4%A7%E5%B0%8F%E8%B6%85%E8%BF%8710mb%E7%9A%84%E6%96%87%E4%BB%B6)<br>
+[65、添加一条到192.168.3.0/24的路由，网关为192.168.1.254？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#65%E6%B7%BB%E5%8A%A0%E4%B8%80%E6%9D%A1%E5%88%B01921683024%E7%9A%84%E8%B7%AF%E7%94%B1%E7%BD%91%E5%85%B3%E4%B8%BA1921681254) <br>
+[66、如何在/var目录下找出90天之内未被访问过的文件? ](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#66%E5%A6%82%E4%BD%95%E5%9C%A8var%E7%9B%AE%E5%BD%95%E4%B8%8B%E6%89%BE%E5%87%BA90%E5%A4%A9%E4%B9%8B%E5%86%85%E6%9C%AA%E8%A2%AB%E8%AE%BF%E9%97%AE%E8%BF%87%E7%9A%84%E6%96%87%E4%BB%B6)<br>
+[67、如何在/home目录下找出120天之前被修改过的文件? ](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#67%E5%A6%82%E4%BD%95%E5%9C%A8home%E7%9B%AE%E5%BD%95%E4%B8%8B%E6%89%BE%E5%87%BA120%E5%A4%A9%E4%B9%8B%E5%89%8D%E8%A2%AB%E4%BF%AE%E6%94%B9%E8%BF%87%E7%9A%84%E6%96%87%E4%BB%B6)<br>
+[68、在整个目录树下查找文件“core”，如发现则无需提示直接删除它们。](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#68%E5%9C%A8%E6%95%B4%E4%B8%AA%E7%9B%AE%E5%BD%95%E6%A0%91%E4%B8%8B%E6%9F%A5%E6%89%BE%E6%96%87%E4%BB%B6core%E5%A6%82%E5%8F%91%E7%8E%B0%E5%88%99%E6%97%A0%E9%9C%80%E6%8F%90%E7%A4%BA%E7%9B%B4%E6%8E%A5%E5%88%A0%E9%99%A4%E5%AE%83%E4%BB%AC) <br>
+[69、有一普通用户想在每周日凌晨零点零分定期备份/user/backup到/tmp目录下，该用户应如何做? ](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#69%E6%9C%89%E4%B8%80%E6%99%AE%E9%80%9A%E7%94%A8%E6%88%B7%E6%83%B3%E5%9C%A8%E6%AF%8F%E5%91%A8%E6%97%A5%E5%87%8C%E6%99%A8%E9%9B%B6%E7%82%B9%E9%9B%B6%E5%88%86%E5%AE%9A%E6%9C%9F%E5%A4%87%E4%BB%BDuserbackup%E5%88%B0tmp%E7%9B%AE%E5%BD%95%E4%B8%8B%E8%AF%A5%E7%94%A8%E6%88%B7%E5%BA%94%E5%A6%82%E4%BD%95%E5%81%9A)<br>
+[70、每周一下午三点将/tmp/logs目录下面的后缀为*.log的所有文件rsync同步到备份服务器192.168.1.100中同样的目录下面，crontab配置项该如何写？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#70%E6%AF%8F%E5%91%A8%E4%B8%80%E4%B8%8B%E5%8D%88%E4%B8%89%E7%82%B9%E5%B0%86tmplogs%E7%9B%AE%E5%BD%95%E4%B8%8B%E9%9D%A2%E7%9A%84%E5%90%8E%E7%BC%80%E4%B8%BAlog%E7%9A%84%E6%89%80%E6%9C%89%E6%96%87%E4%BB%B6rsync%E5%90%8C%E6%AD%A5%E5%88%B0%E5%A4%87%E4%BB%BD%E6%9C%8D%E5%8A%A1%E5%99%A81921681100%E4%B8%AD%E5%90%8C%E6%A0%B7%E7%9A%84%E7%9B%AE%E5%BD%95%E4%B8%8B%E9%9D%A2crontab%E9%85%8D%E7%BD%AE%E9%A1%B9%E8%AF%A5%E5%A6%82%E4%BD%95%E5%86%99)<br>
+[71、找到/tmp/目录下面的所有名称以"s1.jpg"结尾的普通文件，如果其修改日期在一天内，则将其打包到/tmp/back.tar.gz文件中 ](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#71%E6%89%BE%E5%88%B0tmp%E7%9B%AE%E5%BD%95%E4%B8%8B%E9%9D%A2%E7%9A%84%E6%89%80%E6%9C%89%E5%90%8D%E7%A7%B0%E4%BB%A5_s1jpg%E7%BB%93%E5%B0%BE%E7%9A%84%E6%99%AE%E9%80%9A%E6%96%87%E4%BB%B6%E5%A6%82%E6%9E%9C%E5%85%B6%E4%BF%AE%E6%94%B9%E6%97%A5%E6%9C%9F%E5%9C%A8%E4%B8%80%E5%A4%A9%E5%86%85%E5%88%99%E5%B0%86%E5%85%B6%E6%89%93%E5%8C%85%E5%88%B0tmpbacktargz%E6%96%87%E4%BB%B6%E4%B8%AD)<br>
+[72、配置mysql服务器的时候，配置了auto_increment_increment=3，请问这里的3意味着什么？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#72%E9%85%8D%E7%BD%AEmysql%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E6%97%B6%E5%80%99%E9%85%8D%E7%BD%AE%E4%BA%86auto_increment_increment3%E8%AF%B7%E9%97%AE%E8%BF%99%E9%87%8C%E7%9A%843%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88)<br>
+[73、详细说明keepalived的故障切换工作原理](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#73%E8%AF%A6%E7%BB%86%E8%AF%B4%E6%98%8Ekeepalived%E7%9A%84%E6%95%85%E9%9A%9C%E5%88%87%E6%8D%A2%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86)<br>
 
 <br>
 
