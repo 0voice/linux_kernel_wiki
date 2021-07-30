@@ -31,6 +31,9 @@
 
 <h2 id="5">📖 文章</h2>
 
+### 【🏆 强烈推荐阅读】[Linux入门学习笔记.pdf](https://github.com/0voice/linux_kernel_wiki/blob/main/Linux%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.pdf)<br>
+<br>
+
 [1、浅谈Linux内核之CPU缓存](https://github.com/0voice/linux_kernel_wiki/blob/main/%E6%96%87%E7%AB%A0/%E6%B5%85%E8%B0%88Linux%E5%86%85%E6%A0%B8%E4%B9%8BCPU%E7%BC%93%E5%AD%98.md)<br>
 [2、Linux IO 之 IO与网络模型](https://github.com/0voice/linux_kernel_wiki/blob/main/%E6%96%87%E7%AB%A0/Linux%20IO%20%E4%B9%8B%20IO%E4%B8%8E%E7%BD%91%E7%BB%9C%E6%A8%A1%E5%9E%8B.md)<br>
 [3、你真的理解Linux中断机制嘛](https://github.com/0voice/linux_kernel_wiki/blob/main/%E6%96%87%E7%AB%A0/%E4%BD%A0%E7%9C%9F%E7%9A%84%E7%90%86%E8%A7%A3Linux%E4%B8%AD%E6%96%AD%E6%9C%BA%E5%88%B6%E5%98%9B.md)<br>
