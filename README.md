@@ -91,33 +91,7 @@
 
 
 
-<h2 id="7">📀 视频</h2>
 
-1、Linux Kernel Network Drivers - Classification（Linux内核网络驱动程序）[百度网盘：qdt5](https://pan.baidu.com/s/1_85kROXeIVzcYVNJspMKWA)<br>
-
-2、Linux Kernel Development（Linux内核开发）[百度网盘：vg1u](https://pan.baidu.com/s/1eWqHk_xUriAXg2GJqXtCbA)<br>
-
-3、The mind behind Linux（Linux背后的思想）[百度网盘：zgnu](https://pan.baidu.com/s/1v2eDJc_0DTTH7jrzolxcyg)<br>
-
-4、Linux Systems Performance（Linux系统性能）[百度网盘：9qom](https://pan.baidu.com/s/1g-6dhsXPMleLE71b9JumUQ)<br>
-
-5、Network Driver Interfaces（网络驱动程序接口）[百度网盘：xpke](https://pan.baidu.com/s/1w9U9KffcoZPq1Tn18RC-KQ)<br>
-
-6、Selective module compilation in mainline kernel（在主线内核中编译可选模块）:[百度网盘：l56j](https://pan.baidu.com/s/19qbB_8LOYjjxQhYqt0J6aw)<br>
-
-7、Linux System Programming 6 Hours Course（Linux系统编程6小时课程）[百度网盘：hc2d](https://pan.baidu.com/s/1NTO-oVj2mD8RsdSttv7utg)<br>
-
-8、Threads and Thread Handing（线程和线程处理）[百度网盘：erxm](https://pan.baidu.com/s/1kFgrXMlwjwaXEhHrNn4YMg)<br>
-
-9、Learning the Linux Kernel with tracing（通过跟踪学习Linux内核）[百度网盘：066g](https://pan.baidu.com/s/1dryMKlBjTMOBPdwOgZS8gQ)<br>
-
-10、How to Apply a Patch to the Linux Kernel Stable Tree（如何将补丁应用到Linux内核稳定树）[百度网盘：955e](https://pan.baidu.com/s/1r1MxgqOofOvCerFuQp_xTw)<br>
-
-11、Linux Kernel Programming（Linux内核编程- atomic_t数据类型-原子变量和api）[百度网盘：njt0](https://pan.baidu.com/s/1oK3XzU-n4_wmYjH1UHA5sQ)<br>
-
-12、Kernel Recipes 2017 - 性能优化大牛Brendan Gregg  [百度网盘：lrex](https://pan.baidu.com/s/1B9VFegjTeOY7QosSmjxgFA)<br>
-
-<br>
 
 <h2 id="8">🕵 面试题</h2>
 
@@ -196,6 +170,34 @@
 [71、找到/tmp/目录下面的所有名称以"s1.jpg"结尾的普通文件，如果其修改日期在一天内，则将其打包到/tmp/back.tar.gz文件中 ](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#71%E6%89%BE%E5%88%B0tmp%E7%9B%AE%E5%BD%95%E4%B8%8B%E9%9D%A2%E7%9A%84%E6%89%80%E6%9C%89%E5%90%8D%E7%A7%B0%E4%BB%A5_s1jpg%E7%BB%93%E5%B0%BE%E7%9A%84%E6%99%AE%E9%80%9A%E6%96%87%E4%BB%B6%E5%A6%82%E6%9E%9C%E5%85%B6%E4%BF%AE%E6%94%B9%E6%97%A5%E6%9C%9F%E5%9C%A8%E4%B8%80%E5%A4%A9%E5%86%85%E5%88%99%E5%B0%86%E5%85%B6%E6%89%93%E5%8C%85%E5%88%B0tmpbacktargz%E6%96%87%E4%BB%B6%E4%B8%AD)<br>
 [72、配置mysql服务器的时候，配置了auto_increment_increment=3，请问这里的3意味着什么？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#72%E9%85%8D%E7%BD%AEmysql%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E6%97%B6%E5%80%99%E9%85%8D%E7%BD%AE%E4%BA%86auto_increment_increment3%E8%AF%B7%E9%97%AE%E8%BF%99%E9%87%8C%E7%9A%843%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88)<br>
 [73、详细说明keepalived的故障切换工作原理](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#73%E8%AF%A6%E7%BB%86%E8%AF%B4%E6%98%8Ekeepalived%E7%9A%84%E6%95%85%E9%9A%9C%E5%88%87%E6%8D%A2%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86)<br>
+
+<br>
+
+<h2 id="7">📀 视频</h2>
+
+1、Linux Kernel Network Drivers - Classification（Linux内核网络驱动程序）[百度网盘：qdt5](https://pan.baidu.com/s/1_85kROXeIVzcYVNJspMKWA)<br>
+
+2、Linux Kernel Development（Linux内核开发）[百度网盘：vg1u](https://pan.baidu.com/s/1eWqHk_xUriAXg2GJqXtCbA)<br>
+
+3、The mind behind Linux（Linux背后的思想）[百度网盘：zgnu](https://pan.baidu.com/s/1v2eDJc_0DTTH7jrzolxcyg)<br>
+
+4、Linux Systems Performance（Linux系统性能）[百度网盘：9qom](https://pan.baidu.com/s/1g-6dhsXPMleLE71b9JumUQ)<br>
+
+5、Network Driver Interfaces（网络驱动程序接口）[百度网盘：xpke](https://pan.baidu.com/s/1w9U9KffcoZPq1Tn18RC-KQ)<br>
+
+6、Selective module compilation in mainline kernel（在主线内核中编译可选模块）:[百度网盘：l56j](https://pan.baidu.com/s/19qbB_8LOYjjxQhYqt0J6aw)<br>
+
+7、Linux System Programming 6 Hours Course（Linux系统编程6小时课程）[百度网盘：hc2d](https://pan.baidu.com/s/1NTO-oVj2mD8RsdSttv7utg)<br>
+
+8、Threads and Thread Handing（线程和线程处理）[百度网盘：erxm](https://pan.baidu.com/s/1kFgrXMlwjwaXEhHrNn4YMg)<br>
+
+9、Learning the Linux Kernel with tracing（通过跟踪学习Linux内核）[百度网盘：066g](https://pan.baidu.com/s/1dryMKlBjTMOBPdwOgZS8gQ)<br>
+
+10、How to Apply a Patch to the Linux Kernel Stable Tree（如何将补丁应用到Linux内核稳定树）[百度网盘：955e](https://pan.baidu.com/s/1r1MxgqOofOvCerFuQp_xTw)<br>
+
+11、Linux Kernel Programming（Linux内核编程- atomic_t数据类型-原子变量和api）[百度网盘：njt0](https://pan.baidu.com/s/1oK3XzU-n4_wmYjH1UHA5sQ)<br>
+
+12、Kernel Recipes 2017 - 性能优化大牛Brendan Gregg  [百度网盘：lrex](https://pan.baidu.com/s/1B9VFegjTeOY7QosSmjxgFA)<br>
 
 <br>
 
