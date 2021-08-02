@@ -81,7 +81,7 @@ Linux中进程的地址空间由mm_struct来描述，一个进程只会有一个
 
 Linux系统通过伙伴算法解决了外部碎片的问题，此外还提供了slab分配器来处理内部碎片的问题。slab分配器也是一种内存预分配机制，是一种空间换时间的做法，并且其假定从slab分配器中获得的内存都是比页还小的小内存块。
 
-![image](https://user-images.githubusercontent.com/87457873/127830883-6bd3c8bf-c740-4004-b793-762a4a0367fc.png)
+![image](https://user-images.githubusercontent.com/87457873/127836300-b01190fe-eaef-4fba-9118-ae7b14ce9409.png)
 
 slab的设计思想就是把若干的页框合在一起形成一大存储块——slab，并在这个slab中只存储同一类数据，这样就可以在这个slab内部打破页的界限，以该类型数据的大小来定义分配粒度，存放多个数据，这样就可以尽可能地减少页内碎片了。在Linux中，多个存储同类数据的slab的集合叫做一类对象的缓冲区——cache。注意，这不是硬件的那个cache，只是借用这个名词而已。
 
