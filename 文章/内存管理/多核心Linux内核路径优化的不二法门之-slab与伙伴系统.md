@@ -57,7 +57,7 @@ Linux内核的slab来自一种很简单的思想，即事先准备好一些会�
 
 该slab cache的图示如下：
 
-![image](https://user-images.githubusercontent.com/87457873/127662257-9c2ec8e1-7989-40f7-8413-a8016b86394c.png)
+![127662257-9c2ec8e1-7989-40f7-8413-a8016b86394c](https://user-images.githubusercontent.com/87457873/127869263-b574e7ef-21ba-4633-a048-926e8489b11a.png)
 
 其行为如下图所示：
 
