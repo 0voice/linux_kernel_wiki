@@ -251,29 +251,69 @@
 
 <h2 id="7">📀 视频</h2>
 
-1、Linux Kernel Network Drivers - Classification（Linux内核网络驱动程序）[百度网盘：qdt5](https://pan.baidu.com/s/1_85kROXeIVzcYVNJspMKWA)<br>
+<br>
 
-2、Linux Kernel Development（Linux内核开发）[百度网盘：vg1u](https://pan.baidu.com/s/1eWqHk_xUriAXg2GJqXtCbA)<br>
+**国外大神**
 
-3、The mind behind Linux（Linux背后的思想）[百度网盘：zgnu](https://pan.baidu.com/s/1v2eDJc_0DTTH7jrzolxcyg)<br>
+1、Linux Kernel Network Drivers - Classification（Linux内核网络驱动程序）-----[百度网盘：qdt5](https://pan.baidu.com/s/1_85kROXeIVzcYVNJspMKWA)<br>
 
-4、Linux Systems Performance（Linux系统性能）[百度网盘：9qom](https://pan.baidu.com/s/1g-6dhsXPMleLE71b9JumUQ)<br>
+2、Linux Kernel Development（Linux内核开发）-----[百度网盘：vg1u](https://pan.baidu.com/s/1eWqHk_xUriAXg2GJqXtCbA)<br>
 
-5、Network Driver Interfaces（网络驱动程序接口）[百度网盘：xpke](https://pan.baidu.com/s/1w9U9KffcoZPq1Tn18RC-KQ)<br>
+3、The mind behind Linux（Linux背后的思想）-----[百度网盘：zgnu](https://pan.baidu.com/s/1v2eDJc_0DTTH7jrzolxcyg)<br>
 
-6、Selective module compilation in mainline kernel（在主线内核中编译可选模块）:[百度网盘：l56j](https://pan.baidu.com/s/19qbB_8LOYjjxQhYqt0J6aw)<br>
+4、Linux Systems Performance（Linux系统性能）-----[百度网盘：9qom](https://pan.baidu.com/s/1g-6dhsXPMleLE71b9JumUQ)<br>
 
-7、Linux System Programming 6 Hours Course（Linux系统编程6小时课程）[百度网盘：hc2d](https://pan.baidu.com/s/1NTO-oVj2mD8RsdSttv7utg)<br>
+5、Network Driver Interfaces（网络驱动程序接口）-----[百度网盘：xpke](https://pan.baidu.com/s/1w9U9KffcoZPq1Tn18RC-KQ)<br>
 
-8、Threads and Thread Handing（线程和线程处理）[百度网盘：erxm](https://pan.baidu.com/s/1kFgrXMlwjwaXEhHrNn4YMg)<br>
+6、Selective module compilation in mainline kernel（在主线内核中编译可选模块）-----[百度网盘：l56j](https://pan.baidu.com/s/19qbB_8LOYjjxQhYqt0J6aw)<br>
 
-9、Learning the Linux Kernel with tracing（通过跟踪学习Linux内核）[百度网盘：066g](https://pan.baidu.com/s/1dryMKlBjTMOBPdwOgZS8gQ)<br>
+7、Linux System Programming 6 Hours Course（Linux系统编程6小时课程）-----[百度网盘：hc2d](https://pan.baidu.com/s/1NTO-oVj2mD8RsdSttv7utg)<br>
 
-10、How to Apply a Patch to the Linux Kernel Stable Tree（如何将补丁应用到Linux内核稳定树）[百度网盘：955e](https://pan.baidu.com/s/1r1MxgqOofOvCerFuQp_xTw)<br>
+8、Threads and Thread Handing（线程和线程处理）-----[百度网盘：erxm](https://pan.baidu.com/s/1kFgrXMlwjwaXEhHrNn4YMg)<br>
 
-11、Linux Kernel Programming（Linux内核编程- atomic_t数据类型-原子变量和api）[百度网盘：njt0](https://pan.baidu.com/s/1oK3XzU-n4_wmYjH1UHA5sQ)<br>
+9、Learning the Linux Kernel with tracing（通过跟踪学习Linux内核）-----[百度网盘：066g](https://pan.baidu.com/s/1dryMKlBjTMOBPdwOgZS8gQ)<br>
 
-12、Kernel Recipes 2017 - 性能优化大牛Brendan Gregg  [百度网盘：lrex](https://pan.baidu.com/s/1B9VFegjTeOY7QosSmjxgFA)<br>
+10、How to Apply a Patch to the Linux Kernel Stable Tree（如何将补丁应用到Linux内核稳定树）-----[百度网盘：955e](https://pan.baidu.com/s/1r1MxgqOofOvCerFuQp_xTw)<br>
+
+11、Linux Kernel Programming（Linux内核编程- atomic_t数据类型-原子变量和api）-----[百度网盘：njt0](https://pan.baidu.com/s/1oK3XzU-n4_wmYjH1UHA5sQ)<br>
+
+12、Kernel Recipes 2017 - 性能优化大牛Brendan Gregg  -----[百度网盘：lrex](https://pan.baidu.com/s/1B9VFegjTeOY7QosSmjxgFA)<br>
+
+<br>
+
+**国内大佬**
+
+1、剖析Linux内核内存管理(一)-----[百度网盘：css1](https://pan.baidu.com/s/1CNd1FPcTQjLZMXXHdnfJFA)<br>
+
+2、剖析linux内核内存管理(二)-----[百度网盘：3fxd](https://pan.baidu.com/s/1_m7RvBAubBqqc4NmC4O74w)<br>
+
+3、剖析Linux内核MMU详解-----[百度网盘：ees3](https://pan.baidu.com/s/1fBbZ2SV8x-Pn8LMLiHSGRg)<br>
+
+4、剖析Linux内核分配页机制-----[百度网盘：nnnp](https://pan.baidu.com/s/1jhy5zQhRDluh_4MFmsGimA)<br>
+
+5、剖析Linux内核网络协议栈-----[百度网盘：m389](https://pan.baidu.com/s/19SyOwaPvQF69GI5NYrPLOg)<br>
+
+6、剖析Linux内核源码数据同步-----[百度网盘：pf2v](https://pan.baidu.com/s/1iQDQF3X7f1pcNV1icMPdLQ)<br>
+
+7、剖析Linux内核内存分配与回收机制-----[百度网盘：hz7k](https://pan.baidu.com/s/1R3B9vB6Hvf0BG8rx29zZpg)<br>
+
+8、剖析Linux内核锁与IPC机制-----[百度网盘：e8ak](https://pan.baidu.com/s/1cRxaooK7IvzhkeZLoRt4bw)<br>
+
+9、剖析Linux内核源码框架结构-----[百度网盘：6wm9](https://pan.baidu.com/s/1VVdyZfoxqrHTidYz5gv4ew)<br>
+
+10、剖析Linux内核进程虚拟内存-----[百度网盘：pqr2](https://pan.baidu.com/s/149xEmI0eYqxJsCGEdmiKWA)<br>
+
+11、剖析Linux内核进程调度策略-----[百度网盘：ls0s](https://pan.baidu.com/s/1zj4MNzA3vGrw9kDS2umgRQ)<br>
+
+12、剖析Linux内核源码之地址映射机制-----[百度网盘：o5il](https://pan.baidu.com/s/1Yewmz8YL2lSbuWUZmbc8Ag)<br>
+
+13、深度详解Linux内存管理(MM)机制-----[百度网盘：p3nr](https://pan.baidu.com/s/1WWgPuMrnajx-6wAxPGHPnw)<br>
+
+14、深度剖析Linux内核四大核心框架-----[百度网盘：mru1](https://pan.baidu.com/s/1MfkR28_LzF3snjEQxY0iEA)<br>
+
+15、Linux高性能服务器模型选择-----[百度网盘：q9gb](https://pan.baidu.com/s/1zKT8ndDsY9ZMUeSrYgo17g)<br>
+
+16、红黑树在linux内核中的3种场景（红黑树证明，进程管理cfs，内存管理）-----[百度网盘：b9r3](https://pan.baidu.com/s/1jcYz83P7n0I_yXyNR5iJ8Q)<br>
 
 <br>
 
