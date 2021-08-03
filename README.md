@@ -103,9 +103,6 @@
 <br>
 
 
-
-
-
 <h2 id="8">🕵 面试题</h2>
 
 **[面试题一](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md)**
@@ -201,7 +198,53 @@
 [89、虚拟内存的技术实现](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#89%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98%E7%9A%84%E6%8A%80%E6%9C%AF%E5%AE%9E%E7%8E%B0)<br>
 [90、页面置换算法](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80.md#90%E9%A1%B5%E9%9D%A2%E7%BD%AE%E6%8D%A2%E7%AE%97%E6%B3%95)<br>
 
+**[面试题二](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md)**
 
+[1、绝对路径用什么符号表示？当前目录、上层目录用什么表示？主目录用什么表示? 切换目录用什么命令？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md#%E9%97%AE%E9%A2%98%E4%B8%80)<br>
+[2、怎么查看当前进程？怎么执行退出？怎么查看当前路径？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md#%E9%97%AE%E9%A2%98%E4%BA%8C)<br>
+[3、怎么清屏？怎么退出当前命令？怎么执行睡眠？怎么查看当前用户 id？查看指定帮助用什么命令？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md#%E9%97%AE%E9%A2%98%E4%B8%89)<br>
+[4、Ls 命令执行什么功能？ 可以带哪些参数，有什么区别？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md#%E9%97%AE%E9%A2%98%E5%9B%9B)<br>
+[5、建立软链接(快捷方式)，以及硬链接的命令。](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md#%E9%97%AE%E9%A2%98%E4%BA%94)<br>
+[6、目录创建用什么命令？创建文件用什么命令？复制文件用什么命令？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md#%E9%97%AE%E9%A2%98%E5%85%AD)<br>
+[7、使用哪一个命令可以查看自己文件系统的磁盘空间配额呢？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md#%E9%97%AE%E9%A2%98%E4%B8%83)<br>
+[8、查看文件内容有哪些命令可以使用？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md#%E9%97%AE%E9%A2%98%E5%85%AB)<br>
+[9、随意写文件命令？怎么向屏幕输出带空格的字符串，比如”hello world”?](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md#%E9%97%AE%E9%A2%98%E4%B9%9D)<br>
+[10、终端是哪个文件夹下的哪个文件？黑洞文件是哪个文件夹下的哪个命令？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md#%E9%97%AE%E9%A2%98%E5%8D%81)<br>
+[11、移动文件用哪个命令？改名用哪个命令？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md#%E9%97%AE%E9%A2%98%E5%8D%81%E4%B8%80)<br>
+[12、复制文件用哪个命令？如果需要连同文件夹一块复制呢？如果需要有提示功能呢？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md#%E9%97%AE%E9%A2%98%E5%8D%81%E4%BA%8C)<br>
+[13、删除文件用哪个命令？如果需要连目录及目录下文件一块删除呢？删除空文件夹用什么命令？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md#%E9%97%AE%E9%A2%98%E5%8D%81%E4%B8%89)<br>
+[14、Linux 下命令有哪几种可使用的通配符？分别代表什么含义?](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md#%E9%97%AE%E9%A2%98%E5%8D%81%E5%9B%9B)<br>
+[15、用什么命令对一个文件的内容进行统计？(行号、单词数、字节数)](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md#%E9%97%AE%E9%A2%98%E5%8D%81%E4%BA%94)<br>
+[16、Grep 命令有什么用？ 如何忽略大小写？ 如何查找不含该串的行?](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md#%E9%97%AE%E9%A2%98%E5%8D%81%E5%85%AD)<br>
+[17、Linux 中进程有哪几种状态？在 ps 显示出来的信息中，分别用什么符号表示的？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md#%E9%97%AE%E9%A2%98%E5%8D%81%E4%B8%83)<br>
+[18、怎么使一个命令在后台运行?](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md#%E9%97%AE%E9%A2%98%E5%8D%81%E5%85%AB)<br>
+[19、利用 ps 怎么显示所有的进程? 怎么利用 ps 查看指定进程的信息？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md#%E9%97%AE%E9%A2%98%E5%8D%81%E4%B9%9D)<br>
+[20、哪个命令专门用来查看后台任务?](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md#%E9%97%AE%E9%A2%98%E4%BA%8C%E5%8D%81)<br>
+[21、把后台任务调到前台执行使用什么命令?把停下的后台任务在后台执行起来用什么命令?](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md#%E9%97%AE%E9%A2%98%E4%BA%8C%E5%8D%81%E4%B8%80)<br>
+[22、终止进程用什么命令? 带什么参数?](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md#%E9%97%AE%E9%A2%98%E4%BA%8C%E5%8D%81%E4%BA%8C)<br>
+[23、怎么查看系统支持的所有信号？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md#%E9%97%AE%E9%A2%98%E4%BA%8C%E5%8D%81%E4%B8%89)<br>
+[24、搜索文件用什么命令? 格式是怎么样的?](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md#%E9%97%AE%E9%A2%98%E4%BA%8C%E5%8D%81%E5%9B%9B)<br>
+[25、查看当前谁在使用该主机用什么命令? 查找自己所在的终端信息用什么命令?](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md#%E9%97%AE%E9%A2%98%E4%BA%8C%E5%8D%81%E4%BA%94)<br>
+[26、使用什么命令查看用过的命令列表?](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md#%E9%97%AE%E9%A2%98%E4%BA%8C%E5%8D%81%E5%85%AD)<br>
+[27、使用什么命令查看磁盘使用空间？ 空闲空间呢?](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md#%E9%97%AE%E9%A2%98%E4%BA%8C%E5%8D%81%E4%B8%83)<br>
+[28、使用什么命令查看网络是否连通?](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md#%E9%97%AE%E9%A2%98%E4%BA%8C%E5%8D%81%E5%85%AB)<br>
+[29、使用什么命令查看 ip 地址及接口信息？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md#%E9%97%AE%E9%A2%98%E4%BA%8C%E5%8D%81%E4%B9%9D)<br>
+[30、查看各类环境变量用什么命令?](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md#%E9%97%AE%E9%A2%98%E4%B8%89%E5%8D%81)<br>
+[31、通过什么命令指定命令提示符?](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md#%E9%97%AE%E9%A2%98%E4%B8%89%E5%8D%81%E4%B8%80)<br>
+[32、查找命令的可执行文件是去哪查找的? 怎么对其进行设置及添加?](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md#%E9%97%AE%E9%A2%98%E4%B8%89%E5%8D%81%E4%BA%8C)<br>
+[33、通过什么命令查找执行命令?](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md#%E9%97%AE%E9%A2%98%E4%B8%89%E5%8D%81%E4%B8%89)<br>
+[34、怎么对命令进行取别名？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md#%E9%97%AE%E9%A2%98%E4%B8%89%E5%8D%81%E5%9B%9B)<br>
+[35、du 和 df 的定义，以及区别？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md#%E9%97%AE%E9%A2%98%E4%B8%89%E5%8D%81%E4%BA%94)<br>
+[36、awk 详解？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md#%E9%97%AE%E9%A2%98%E4%B8%89%E5%8D%81%E5%85%AD)<br>
+[37、当你需要给命令绑定一个宏或者按键的时候，应该怎么做呢？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md#%E9%97%AE%E9%A2%98%E4%B8%89%E5%8D%81%E4%B8%83)<br>
+[38、如果一个linux新手想要知道当前系统支持的所有命令的列表，他需要怎么做？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md#%E9%97%AE%E9%A2%98%E4%B8%89%E5%8D%81%E5%85%AB)<br>
+[39、如果你的助手想要打印出当前的目录栈，你会建议他怎么做？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md#%E9%97%AE%E9%A2%98%E4%B8%89%E5%8D%81%E4%B9%9D)<br>
+[40、你的系统目前有许多正在运行的任务，在不重启机器的条件下，有什么方法可以把所有正在运行的进程移除呢？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md#%E9%97%AE%E9%A2%98%E5%9B%9B%E5%8D%81)<br>
+[41、bash shell 中的hash 命令有什么作用？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md#%E9%97%AE%E9%A2%98%E5%9B%9B%E5%8D%81%E4%B8%80)<br>
+[42、哪一个bash内置命令能够进行数学运算？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md#%E9%97%AE%E9%A2%98%E5%9B%9B%E5%8D%81%E4%BA%8C)<br>
+[43、怎样一页一页地查看一个大文件的内容呢？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md#%E9%97%AE%E9%A2%98%E5%9B%9B%E5%8D%81%E4%B8%89)<br>
+[44、数据字典属于哪一个用户的？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md#%E9%97%AE%E9%A2%98%E5%9B%9B%E5%8D%81%E5%9B%9B)<br>
+[45、怎样查看一个linux命令的概要与用法？假设你在/bin目录中偶然看到一个你从没见过的的命令，怎样才能知道它的作用和用法呢？](https://github.com/0voice/linux_kernel_wiki/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%E4%BA%8C.md#%E9%97%AE%E9%A2%98%E5%9B%9B%E5%8D%81%E4%BA%94)<br>
 
 
 <br>
