@@ -39,6 +39,9 @@
 [3、你真的理解Linux中断机制吗](https://github.com/0voice/linux_kernel_wiki/blob/main/%E6%96%87%E7%AB%A0/%E4%BD%A0%E7%9C%9F%E7%9A%84%E7%90%86%E8%A7%A3Linux%E4%B8%AD%E6%96%AD%E6%9C%BA%E5%88%B6%E5%98%9B.md)<br>
 [4、Linux内核之系统调用](https://github.com/0voice/linux_kernel_wiki/blob/main/%E6%96%87%E7%AB%A0/%E7%B3%BB%E7%BB%9F%E8%B0%83%E7%94%A8.md)<br>
 [5、Linux内核之任务空间管理](https://github.com/0voice/linux_kernel_wiki/blob/main/%E6%96%87%E7%AB%A0/%E4%BB%BB%E5%8A%A1%E7%A9%BA%E9%97%B4%E7%AE%A1%E7%90%86.md)<br>
+[6、Linux操作系统学习——启动](https://github.com/0voice/linux_kernel_wiki/blob/main/%E6%96%87%E7%AB%A0/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E2%80%94%E2%80%94%E5%90%AF%E5%8A%A8.md)<br>
+[7、Linux操作系统学习——内核运行](https://github.com/0voice/linux_kernel_wiki/blob/main/%E6%96%87%E7%AB%A0/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E2%80%94%E2%80%94%E5%86%85%E6%A0%B8%E8%BF%90%E8%A1%8C.md)<br>
+[8、Linux操作系统学习——内核初始化](https://github.com/0voice/linux_kernel_wiki/blob/main/%E6%96%87%E7%AB%A0/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E2%80%94%E2%80%94%E5%86%85%E6%A0%B8%E5%88%9D%E5%A7%8B%E5%8C%96.md)<br>
 
 **[内存管理](https://github.com/0voice/linux_kernel_wiki/tree/main/%E6%96%87%E7%AB%A0/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86)**
 
@@ -85,6 +88,8 @@
 [5、Linux IO 之 文件系统的架构](https://github.com/0voice/linux_kernel_wiki/blob/main/%E6%96%87%E7%AB%A0/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/Linux%20IO%20%E4%B9%8B%20%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%9E%B6%E6%9E%84.md)<br>
 [6、Linux IO 之 文件系统的实现](https://github.com/0voice/linux_kernel_wiki/blob/main/%E6%96%87%E7%AB%A0/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/Linux%20IO%20%E4%B9%8B%20%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%AE%9E%E7%8E%B0.md)<br>
 [7、Linux IO 之 块I/O流程与I/O调度器](https://github.com/0voice/linux_kernel_wiki/blob/main/%E6%96%87%E7%AB%A0/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/Linux%20IO%20%E4%B9%8B%20%E5%9D%97IO%E6%B5%81%E7%A8%8B%E4%B8%8EIO%E8%B0%83%E5%BA%A6%E5%99%A8.md)<br>
+[8、Linux操作系统学习之虚拟文件系统](https://github.com/0voice/linux_kernel_wiki/blob/main/%E6%96%87%E7%AB%A0/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/%E8%99%9A%E6%8B%9F%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F.md)<br>
+[9、Linux操作系统学习之文件系统](https://github.com/0voice/linux_kernel_wiki/blob/main/%E6%96%87%E7%AB%A0/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E4%B9%8B%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F.md)<br>
 
 <br>
 
@@ -108,6 +113,7 @@
 
 [1、Linux 总线、设备、驱动模型的探究](https://github.com/0voice/linux_kernel_wiki/blob/main/%E6%96%87%E7%AB%A0/%E8%AE%BE%E5%A4%87%E9%A9%B1%E5%8A%A8/Linux%20%E6%80%BB%E7%BA%BF%E3%80%81%E8%AE%BE%E5%A4%87%E3%80%81%E9%A9%B1%E5%8A%A8%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%8E%A2%E7%A9%B6.md)<br>
 [2、Linux 设备和驱动的相遇](https://github.com/0voice/linux_kernel_wiki/blob/main/%E6%96%87%E7%AB%A0/%E8%AE%BE%E5%A4%87%E9%A9%B1%E5%8A%A8/Linux%20%E8%AE%BE%E5%A4%87%E5%92%8C%E9%A9%B1%E5%8A%A8%E7%9A%84%E7%9B%B8%E9%81%87.md)<br>
+[3、Linux操作系统学习之字符设备](https://github.com/0voice/linux_kernel_wiki/blob/main/%E6%96%87%E7%AB%A0/%E8%AE%BE%E5%A4%87%E9%A9%B1%E5%8A%A8/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E4%B9%8B%E5%AD%97%E7%AC%A6%E8%AE%BE%E5%A4%87.md)<br>
 
 <br>
 
