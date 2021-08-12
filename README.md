@@ -15,6 +15,9 @@
 [**🏳️‍🌈知识体系**](#3) | [**📕电子书籍**](#10) | [**📥源码下载**](https://www.kernel.org/)  
   
 </div>
+<br>
+
+## 📢 重磅消息：现已开启【Linux内核学习资料】姊妹篇 ——【[最全空降Golang资料补给包（满血战斗）](https://github.com/0voice/Introduction-to-Golang)】repo计划，有兴趣的开发者可以去看看哟！！！
 
 ## 📢 前言
 在我们学习Linux内核之前，我们首先需要掌握以下几点：
