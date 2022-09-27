@@ -275,27 +275,28 @@
 
 1、Linux Kernel Network Drivers - Classification（Linux内核网络驱动程序）-----[点击观看](https://www.bilibili.com/video/BV1Mf4y1o7qe/?spm_id_from=333.999.0.0&vd_source=952fe0586840740c9f6558c15266fb83)<br>
 
-2、Linux Kernel Development（Linux内核开发）-----[百度网盘：vg1u](https://pan.baidu.com/s/1eWqHk_xUriAXg2GJqXtCbA)<br>
+2、Linux Kernel Development（Linux内核开发）-----[点击观看](https://www.bilibili.com/video/BV1kG411W7f2/?spm_id_from=333.999.0.0&vd_source=952fe0586840740c9f6558c15266fb83)<br>
 
-3、The mind behind Linux（Linux背后的思想）-----[百度网盘：zgnu](https://pan.baidu.com/s/1v2eDJc_0DTTH7jrzolxcyg)<br>
+3、The mind behind Linux（Linux背后的思想）-----[点击观看](https://www.youtube.com/watch?v=o8NPllzkFhE)<br>
 
-4、Linux Systems Performance（Linux系统性能）-----[百度网盘：9qom](https://pan.baidu.com/s/1g-6dhsXPMleLE71b9JumUQ)<br>
+4、Linux Systems Performance（Linux系统性能）-----[点击观看](https://www.youtube.com/watch?v=fhBHvsi0Ql0)<br>
 
-5、Network Driver Interfaces（网络驱动程序接口）-----[百度网盘：xpke](https://pan.baidu.com/s/1w9U9KffcoZPq1Tn18RC-KQ)<br>
+5、Network Driver Interfaces（网络驱动程序接口）-----[点击观看](https://www.youtube.com/watch?v=YSMRcjvN8w8)<br>
 
-6、Selective module compilation in mainline kernel（在主线内核中编译可选模块）-----[百度网盘：l56j](https://pan.baidu.com/s/19qbB_8LOYjjxQhYqt0J6aw)<br>
+6、Selective module compilation in mainline kernel（在主线内核中编译可选模块）-----[点击观看](https://www.youtube.com/watch?v=SqfIhE_OBXU)<br>
 
-7、Linux System Programming 6 Hours Course（Linux系统编程6小时课程）-----[百度网盘：hc2d](https://pan.baidu.com/s/1NTO-oVj2mD8RsdSttv7utg)<br>
+7、Linux System Programming 6 Hours Course（Linux系统编程6小时课程）-----[点击观看](https://www.youtube.com/watch?v=8usykf7J30g)<br>
 
-8、Threads and Thread Handing（线程和线程处理）-----[百度网盘：erxm](https://pan.baidu.com/s/1kFgrXMlwjwaXEhHrNn4YMg)<br>
+8、Introduction to Threads（线程简介）-----[点击观看](https://www.youtube.com/watch?v=LOfGJcVnvAk)<br>
 
-9、Learning the Linux Kernel with tracing（通过跟踪学习Linux内核）-----[百度网盘：066g](https://pan.baidu.com/s/1dryMKlBjTMOBPdwOgZS8gQ)<br>
+9、Learning the Linux Kernel with tracing（通过跟踪学习Linux内核）-----[点击观看](https://www.youtube.com/watch?v=JRyrhsx-L5Y)<br>
 
-10、How to Apply a Patch to the Linux Kernel Stable Tree（如何将补丁应用到Linux内核稳定树）-----[百度网盘：955e](https://pan.baidu.com/s/1r1MxgqOofOvCerFuQp_xTw)<br>
+10、How to Apply a Patch to the Linux Kernel Stable Tree（如何将补丁应用到Linux内核稳定树）-----[点击观看](https://www.youtube.com/watch?v=6zUVS4kJtrA)<br>
 
-11、Linux Kernel Programming（Linux内核编程- atomic_t数据类型-原子变量和api）-----[百度网盘：njt0](https://pan.baidu.com/s/1oK3XzU-n4_wmYjH1UHA5sQ)<br>
+11、Linux Kernel Programming（Linux内核编程- atomic_t数据类型-原子变量和api）-----[点击观看](https://www.youtube.com/watch?v=WiZ05pnHZqM)<br>
 
-12、Kernel Recipes 2017 - 性能优化大牛Brendan Gregg  -----[百度网盘：lrex](https://pan.baidu.com/s/1B9VFegjTeOY7QosSmjxgFA)<br>
+
+12、Kernel Recipes 2017 - 性能优化大牛Brendan Gregg  -----[点击观看](https://www.youtube.com/watch?v=RKadXpQLmPU)<br>
 
 <br>
 
