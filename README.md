@@ -273,7 +273,7 @@
 
 **国外大神**
 
-1、Linux Kernel Network Drivers - Classification（Linux内核网络驱动程序）-----[百度网盘：qdt5](https://pan.baidu.com/s/1_85kROXeIVzcYVNJspMKWA)<br>
+1、Linux Kernel Network Drivers - Classification（Linux内核网络驱动程序）-----[点击观看](https://www.bilibili.com/video/BV1Mf4y1o7qe/?spm_id_from=333.999.0.0&vd_source=952fe0586840740c9f6558c15266fb83)<br>
 
 2、Linux Kernel Development（Linux内核开发）-----[百度网盘：vg1u](https://pan.baidu.com/s/1eWqHk_xUriAXg2GJqXtCbA)<br>
 
