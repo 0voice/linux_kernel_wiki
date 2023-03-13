@@ -622,7 +622,7 @@ Linux内核主要由 **进程管理**、**内存管理**、**设备驱动**、**
 
 ##### 零声Linux内核技术交流群: 865977150, [偶遇技术大佬交流，不定期书籍红包福利，每晚技术直播通知！](https://jq.qq.com/?_wv=1027&k=5b4k5VR5)
 
-##### 点击进入 [每晚八点内核技术直播]((https://ke.qq.com/course/4032547?flowToken=1040236))
+##### 点击进入 [每晚八点内核技术直播https://ke.qq.com/course/4032547?flowToken=1040236](https://ke.qq.com/course/4032547?flowToken=1040236)
 
 <br/>
 <br/>
