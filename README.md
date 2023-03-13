@@ -621,8 +621,8 @@ Linux内核主要由 **进程管理**、**内存管理**、**设备驱动**、**
 
 <h2 id="22">联系专栏</h2> 
 
-#### 零声教育，专注于c/c++Linux后台服务器开发架构技术学习提升。<br>
-每天晚上8点【免费技术直播】：[分享Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK等技术内容，立即学习。](https://ke.qq.com/course/417774?flowToken=1037711)
+#### 零声教育，专注于计算机底层原理Linux内核技术学习提升。<br>
+每天晚上8点【免费技术直播】：[分享Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK等技术内容，立即学习。](https://ke.qq.com/course/4032547?flowToken=1040236 )
   
 #### 关注微信公众号【后台服务架构师】——【联系我们】，获取本repo最全PDF学习文档！
 
