@@ -79,7 +79,7 @@
 [11、进程间通信之管道](https://github.com/0voice/linux_kernel_wiki/blob/main/%E6%96%87%E7%AB%A0/%E8%BF%9B%E7%A8%8B%E7%AE%A1%E7%90%86/%E8%BF%9B%E7%A8%8B%E9%97%B4%E9%80%9A%E4%BF%A1%E4%B9%8B%E7%AE%A1%E9%81%93.md)<br>
 [12、进程间通信之信号](https://github.com/0voice/linux_kernel_wiki/blob/main/%E6%96%87%E7%AB%A0/%E8%BF%9B%E7%A8%8B%E7%AE%A1%E7%90%86/%E8%BF%9B%E7%A8%8B%E9%97%B4%E9%80%9A%E4%BF%A1%E4%B9%8B%E4%BF%A1%E5%8F%B7.md)<br>
 [13、进程间通信之共享内存和信号量](https://github.com/0voice/linux_kernel_wiki/blob/main/%E6%96%87%E7%AB%A0/%E8%BF%9B%E7%A8%8B%E7%AE%A1%E7%90%86/%E8%BF%9B%E7%A8%8B%E9%97%B4%E9%80%9A%E4%BF%A1%E4%B9%8B%E5%85%B1%E4%BA%AB%E5%86%85%E5%AD%98%E5%92%8C%E4%BF%A1%E5%8F%B7%E9%87%8F.md)<br>
-[14、Linux内核进程调度O(1)调度算法](https://github.com/0voice/linux_kernel_wiki/blob/main/%E6%96%87%E7%AB%A0/%E8%BF%9B%E7%A8%8B%E7%AE%A1%E7%90%86/%E8%BF%9B%E7%A8%8B%E9%97%B4%E9%80%9A%E4%BF%A1%E4%B9%8B%E5%85%B1%E4%BA%AB%E5%86%85%E5%AD%98%E5%92%8C%E4%BF%A1%E5%8F%B7%E9%87%8F.md)<br>
+[14、Linux内核进程调度O(1)调度算法](https://github.com/0voice/linux_kernel_wiki/blob/main/%E6%96%87%E7%AB%A0/%E8%BF%9B%E7%A8%8B%E7%AE%A1%E7%90%86/Linux%E5%86%85%E6%A0%B8%E8%BF%9B%E7%A8%8B%E8%B0%83%E5%BA%A6O(1)%E8%B0%83%E5%BA%A6%E7%AE%97%E6%B3%95.md)<br>
 
 <br>
 
