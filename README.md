@@ -36,7 +36,7 @@
 ### 【🏆 强烈推荐阅读】[Linux入门学习笔记.pdf](https://github.com/0voice/linux_kernel_wiki/blob/main/Linux%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.pdf)<br>
 <br>
 
-**[操作系统]**
+**[操作系统]()**
 官方说明：操作系统（英语：Operating System，缩写：OS）是一组主管并控制计算机操作、运用和运行硬件、软件资源和提供公共服务来组织用户交互的相互关联的系统软件程序。根据运行的环境，操作系统可以分为桌面操作系统，手机操作系统，服务器操作系统，嵌入式操作系统等。
 
 [1、Linux操作系统学习——启动](https://github.com/0voice/linux_kernel_wiki/blob/main/%E6%96%87%E7%AB%A0/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E2%80%94%E2%80%94%E5%90%AF%E5%8A%A8.md)<br>
