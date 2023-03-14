@@ -36,11 +36,22 @@
 ### 【🏆 强烈推荐阅读】[Linux入门学习笔记.pdf](https://github.com/0voice/linux_kernel_wiki/blob/main/Linux%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.pdf)<br>
 <br>
 
-**[操作系统]()**
+**[操作系统]**
+官方说明：操作系统（英语：Operating System，缩写：OS）是一组主管并控制计算机操作、运用和运行硬件、软件资源和提供公共服务来组织用户交互的相互关联的系统软件程序。根据运行的环境，操作系统可以分为桌面操作系统，手机操作系统，服务器操作系统，嵌入式操作系统等。
 
 [1、Linux操作系统学习——启动](https://github.com/0voice/linux_kernel_wiki/blob/main/%E6%96%87%E7%AB%A0/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E2%80%94%E2%80%94%E5%90%AF%E5%8A%A8.md)<br>
 [2、Linux操作系统学习——内核运行](https://github.com/0voice/linux_kernel_wiki/blob/main/%E6%96%87%E7%AB%A0/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E2%80%94%E2%80%94%E5%86%85%E6%A0%B8%E8%BF%90%E8%A1%8C.md)<br>
 [3、Linux操作系统学习——内核初始化](https://github.com/0voice/linux_kernel_wiki/blob/main/%E6%96%87%E7%AB%A0/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E2%80%94%E2%80%94%E5%86%85%E6%A0%B8%E5%88%9D%E5%A7%8B%E5%8C%96.md)<br>
+[4、Linux操作系统IO机制原理(流程图详解)](https://github.com/0voice/linux_kernel_wiki/blob/main/%E6%96%87%E7%AB%A0/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9FIO%E6%9C%BA%E5%88%B6%E5%8E%9F%E7%90%86(%E6%B5%81%E7%A8%8B%E5%9B%BE%E8%AF%A6%E8%A7%A3).md)<br>
+[5、Linux操作系统处理器调度基本准则和实现](https://github.com/0voice/linux_kernel_wiki/blob/main/%E6%96%87%E7%AB%A0/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%A4%84%E7%90%86%E5%99%A8%E8%B0%83%E5%BA%A6%E5%9F%BA%E6%9C%AC%E5%87%86%E5%88%99%E5%92%8C%E5%AE%9E%E7%8E%B0.md)<br>
+[6、Linux操作系统基础的常用命令](https://github.com/0voice/linux_kernel_wiki/blob/main/%E6%96%87%E7%AB%A0/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80%E7%9A%84%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.md)<br>
+[7、Linux操作系统进程的状态和转换(五态模型)](https://github.com/0voice/linux_kernel_wiki/blob/main/%E6%96%87%E7%AB%A0/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%BF%9B%E7%A8%8B%E7%9A%84%E7%8A%B6%E6%80%81%E5%92%8C%E8%BD%AC%E6%8D%A2(%E4%BA%94%E6%80%81%E6%A8%A1%E5%9E%8B).md)<br>
+[8、Linux操作系统进程同步的几种方式及基本原理](https://github.com/0voice/linux_kernel_wiki/blob/main/%E6%96%87%E7%AB%A0/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%BF%9B%E7%A8%8B%E5%90%8C%E6%AD%A5%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E5%BC%8F%E5%8F%8A%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86.md)<br>
+[9、Linux操作系统内存管理RAID磁盘阵列与配置](https://github.com/0voice/linux_kernel_wiki/blob/main/%E6%96%87%E7%AB%A0/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86RAID%E7%A3%81%E7%9B%98%E9%98%B5%E5%88%97%E4%B8%8E%E9%85%8D%E7%BD%AE.md)<br>
+[10、Linux操作系统内存管理之磁盘高速缓存机制](https://github.com/0voice/linux_kernel_wiki/blob/main/%E6%96%87%E7%AB%A0/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E4%B9%8B%E7%A3%81%E7%9B%98%E9%AB%98%E9%80%9F%E7%BC%93%E5%AD%98%E6%9C%BA%E5%88%B6.md)<br>
+[11、Linux操作系统通过实战理解CPU上下文切换](https://github.com/0voice/linux_kernel_wiki/blob/main/%E6%96%87%E7%AB%A0/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E9%80%9A%E8%BF%87%E5%AE%9E%E6%88%98%E7%90%86%E8%A7%A3CPU%E4%B8%8A%E4%B8%8B%E6%96%87%E5%88%87%E6%8D%A2.md)<br>
+[12、Linux内核操作系统原理与概述(流程图)](https://github.com/0voice/linux_kernel_wiki/blob/main/%E6%96%87%E7%AB%A0/Linux%E5%86%85%E6%A0%B8%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E6%A6%82%E8%BF%B0(%E6%B5%81%E7%A8%8B%E5%9B%BE).md)<br>
+
 
 **[进程管理](https://github.com/0voice/linux_kernel_wiki/tree/main/%E6%96%87%E7%AB%A0/%E8%BF%9B%E7%A8%8B%E7%AE%A1%E7%90%86)**
 
