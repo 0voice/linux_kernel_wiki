@@ -27,7 +27,15 @@
 * [了解Linux内核由哪些组成？](#1)
 * [须知Linux内核源码（下载的链接👆👆👆）组织结构？](#2)
 * [重点需要学习地知识点有哪些？](#3)
+* [Linux内核架构和工作原理](https://github.com/0voice/linux_kernel_wiki/blob/main/%E6%96%87%E7%AB%A0/Linux%E5%86%85%E6%A0%B8%E6%9E%B6%E6%9E%84%E5%92%8C%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86.md)
+* [Linux内核Makefile系统文件详解](https://github.com/0voice/linux_kernel_wiki/blob/main/%E6%96%87%E7%AB%A0/Linux%E5%86%85%E6%A0%B8Makefile%E7%B3%BB%E7%BB%9F%E6%96%87%E4%BB%B6%E8%AF%A6%E8%A7%A3.md)
+* [计算机Intel CPU体系结构分析](https://github.com/0voice/linux_kernel_wiki/blob/main/%E6%96%87%E7%AB%A0/%E8%AE%A1%E7%AE%97%E6%9C%BAIntel%20CPU%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84%E5%88%86%E6%9E%90.md)
+* [QEMU调试Linux内核环境搭建](https://github.com/0voice/linux_kernel_wiki/blob/main/%E6%96%87%E7%AB%A0/QEMU%E8%B0%83%E8%AF%95Linux%E5%86%85%E6%A0%B8%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA.md)
+* [Linux Kernel内核整体架构(图文详解)](https://github.com/0voice/linux_kernel_wiki/blob/main/%E6%96%87%E7%AB%A0/Linux%20Kernel%E5%86%85%E6%A0%B8%E6%95%B4%E4%BD%93%E6%9E%B6%E6%9E%84(%E5%9B%BE%E6%96%87%E8%AF%A6%E8%A7%A3).md)
+* [Linux内核看socket底层的本质(IO)](https://github.com/0voice/linux_kernel_wiki/blob/main/%E6%96%87%E7%AB%A0/Linux%E5%86%85%E6%A0%B8%E7%9C%8Bsocket%E5%BA%95%E5%B1%82%E7%9A%84%E6%9C%AC%E8%B4%A8(IO).md)
+* [Linux用户空间与内核空间通信(Netlink通信机制)](https://github.com/0voice/linux_kernel_wiki/blob/main/%E6%96%87%E7%AB%A0/Linux%E7%94%A8%E6%88%B7%E7%A9%BA%E9%97%B4%E4%B8%8E%E5%86%85%E6%A0%B8%E7%A9%BA%E9%97%B4%E9%80%9A%E4%BF%A1(Netlink%E9%80%9A%E4%BF%A1%E6%9C%BA%E5%88%B6).md)
 * [最后依据我为大家提供的的学习资料，开启我们的Linux学习之旅。](#4)
+
 
 
 ---
