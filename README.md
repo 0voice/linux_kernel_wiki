@@ -294,36 +294,7 @@
 
 <br>
 
-**国外大神**
-
-1、Linux Kernel Network Drivers - Classification（Linux内核网络驱动程序）-----[点击观看](https://www.bilibili.com/video/BV1Mf4y1o7qe/?spm_id_from=333.999.0.0&vd_source=952fe0586840740c9f6558c15266fb83)<br>
-
-2、Linux Kernel Development（Linux内核开发）-----[点击观看](https://www.bilibili.com/video/BV1kG411W7f2/?spm_id_from=333.999.0.0&vd_source=952fe0586840740c9f6558c15266fb83)<br>
-
-3、The mind behind Linux（Linux背后的思想）-----[点击观看](https://www.youtube.com/watch?v=o8NPllzkFhE)<br>
-
-4、Linux Systems Performance（Linux系统性能）-----[点击观看](https://www.youtube.com/watch?v=fhBHvsi0Ql0)<br>
-
-5、Network Driver Interfaces（网络驱动程序接口）-----[点击观看](https://www.youtube.com/watch?v=YSMRcjvN8w8)<br>
-
-6、Selective module compilation in mainline kernel（在主线内核中编译可选模块）-----[点击观看](https://www.youtube.com/watch?v=SqfIhE_OBXU)<br>
-
-7、Linux System Programming 6 Hours Course（Linux系统编程6小时课程）-----[点击观看](https://www.youtube.com/watch?v=8usykf7J30g)<br>
-
-8、Introduction to Threads（线程简介）-----[点击观看](https://www.youtube.com/watch?v=LOfGJcVnvAk)<br>
-
-9、Learning the Linux Kernel with tracing（通过跟踪学习Linux内核）-----[点击观看](https://www.youtube.com/watch?v=JRyrhsx-L5Y)<br>
-
-10、How to Apply a Patch to the Linux Kernel Stable Tree（如何将补丁应用到Linux内核稳定树）-----[点击观看](https://www.youtube.com/watch?v=6zUVS4kJtrA)<br>
-
-11、Linux Kernel Programming（Linux内核编程- atomic_t数据类型-原子变量和api）-----[点击观看](https://www.youtube.com/watch?v=WiZ05pnHZqM)<br>
-
-
-12、Kernel Recipes 2017 - 性能优化大牛Brendan Gregg  -----[点击观看](https://www.youtube.com/watch?v=RKadXpQLmPU)<br>
-
-<br>
-
-**国内大佬**
+**Linux内核源码视频讲解**
 
 1、深度剖析Linux内核SMP负载均衡-----[视频讲解地址](https://www.bilibili.com/video/BV1Z84y1w7Qa/)<br>
 
@@ -648,7 +619,7 @@ Linux内核主要由 **进程管理**、**内存管理**、**设备驱动**、**
 
 ##### 安利术语：零声，专注于C/C++，Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK, SPDK, bpf/ebpf等等相关技术分享。本repo由零声的小伙伴推动以及所有提交patch的小伙伴（后面鸣谢部分）参与，共同完成。内容来源于互联网，本repo仅限于整理总结。
 
-##### 零声Linux内核技术交流群: 865977150, [偶遇技术大佬交流，不定期书籍红包福利，每晚技术直播通知！](https://jq.qq.com/?_wv=1027&k=5b4k5VR5)
+##### 零声Linux内核/驱动技术交流群:1084338148, [偶遇技术大佬交流，不定期书籍红包福利，每晚技术直播通知！](https://jq.qq.com/?_wv=1027&k=rzJtyEnb)
 
 ##### 点击进入 [每晚八点内核技术直播https://ke.qq.com/course/4032547?flowToken=1040236](https://ke.qq.com/course/4032547?flowToken=1040236)
 
