@@ -326,20 +326,35 @@
 **国内大佬**
 
 1、深度剖析Linux内核SMP负载均衡-----[视频讲解地址](https://www.bilibili.com/video/BV1Z84y1w7Qa/)<br>
+
 2、深度剖析Linux内核ARM64处理器架构-----[视频讲解地址](https://www.bilibili.com/video/BV1sY4y1y7yW/)<br>
+
 3、深度剖析Linux内核ARM异常处理-----[视频讲解地址](https://www.bilibili.com/video/BV1PY4y1y7Nq/)<br>
+
 4、深度剖析Linux内核CFS调度器-----[视频讲解地址](https://www.bilibili.com/video/BV1v8411c7E5/)<br>
+
 5、深度剖析Linux内核量化负载计算能力-----[视频讲解地址](https://www.bilibili.com/video/BV1rN411c7eR/)<br>
+
 6、深度剖析Linux内核进程及生命周期-----[视频讲解地址](https://www.bilibili.com/video/BV1M24y137Je/)<br>
+
 7、深度剖析Linux内核CPU域初始化实现-----[视频讲解地址](https://www.bilibili.com/video/BV1NL411y7eM/)<br>
+
 8、深度剖析Linux内核蓝牙子系统架构-----[视频讲解地址](https://www.bilibili.com/video/BV1yX4y1Z7Db/)<br>
+
 9、深度剖析Linux内核USB系统架构-----[视频讲解地址](https://www.bilibili.com/video/BV1wM411p7ui/)<br>
+
 10、深度剖析Linux内核IO体系结构与访问设备-----[视频讲解地址](https://www.bilibili.com/video/BV16s4y1p7ME/)<br>
+
 11、深度剖析Linux内核进程管理机制-----[视频讲解地址](https://www.bilibili.com/video/BV1Pk4y1h76c/)<br>
+
 12、深度剖析Linux内核MLFQ经典调度算法-----[视频讲解地址](https://www.bilibili.com/video/BV1io4y167k3/)<br>
+
 13、深入剖析Linux内核伙伴系统实现及API调度实战-----[视频讲解地址](https://www.bilibili.com/video/BV1X24y147wj/)<br>
+
 14、深入剖析Linux内核哈希表与运行队列-----[视频讲解地址](https://www.bilibili.com/video/BV1Wg4y1b72M/)<br> 
+
 15、深入剖析Linux内核NUMA调度器-----[视频讲解地址](https://www.bilibili.com/video/BV1UT411a7cN/)<br>
+
 16、深度剖析Linux内核perf性能优化分析-----[视频讲解地址](https://www.bilibili.com/video/BV1UT411a7wC/)<br>
 
 <br>
