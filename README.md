@@ -294,7 +294,7 @@
 
 <br>
 
-**Linux内核源码视频讲解**
+# **Linux内核源码视频讲解**
 
 1、深度剖析Linux内核SMP负载均衡-----[视频讲解地址](https://www.bilibili.com/video/BV1Z84y1w7Qa/)<br>
 
