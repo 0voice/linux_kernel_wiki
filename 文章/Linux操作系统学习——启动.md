@@ -83,7 +83,7 @@
 1、boot.img加载core.img的第一个扇区，即diskboot.img，对应代码为diskboot.S<br>
 2、diskboot.img加载core.img的其他部分模块，先是解压缩程序 lzma_decompress.img，再往下是 kernel.img，最后是各个模块 module 对应的映像。这里需要注意，它不是 Linux 的内核，而是 grub 的内核。注意，lzma_decompress.img 对应的代码是 startup_raw.S，本来 kernel.img 是压缩过的，现在执行的时候，需要解压缩。<br>
 3、加载完core之后，启动grub_main函数。<br>
-4、grub_main函数初始化控制台，计算模块基地址，设置 root 设备，读取 grub 配置文件，加载模块。最后，将 GRUB 置于 normal 模式，在这个模式中，grub_normal_execute (from grub-core/normal/main.c) 将被调用以完成最后的准备工作，然后显示一个菜单列出所用可用的操作系统。当某个操作系统被选择之后，grub_menu_execute_entry 开始执行，它将调用 GRUB 的 boot 命令，来引导被选中的操作系统。<br>
+4、grub_main函数初始化控制台，计算模块基地址，设置 root 设备，读取 grub 配置文件，加载模块。最后，将 GRUB 置于 normal 模式，在这个模式中，grub_normal_execute (from grub-core/normal/main.c) 将被调用以完成最后的准备工作，然后显示一个菜单列出所有可用的操作系统。当某个操作系统被选择之后，grub_menu_execute_entry 开始执行，它将调用 GRUB 的 boot 命令，来引导被选中的操作系统。<br>
   
   在这之前，我们所有遇到过的程序都非常非常小，完全可以在实模式下运行，但是随着我们加载的东西越来越大，实模式这 1M 的地址空间实在放不下了，所以在真正的解压缩之前，lzma_decompress.img 做了一个重要的决定，就是调用 real_to_prot，切换到保护模式，这样就能在更大的寻址空间里面，加载更多的东西。
 
